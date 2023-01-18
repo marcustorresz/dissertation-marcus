@@ -1,0 +1,101 @@
+---
+title: "Independent Variables"
+author: "Marcus Torres"
+format: html
+editor: visual
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Installing Packages
+
+```{r pack}
+rm(list=ls())
+
+library(pacman)
+p_load(siconvr,dplyr)
+```
+
+```{r convenios}
+
+
+
+download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_convenio.csv.zip", # url do arquivo para baixar
+              destfile = "data/siconv_convenio.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+
+datazip <- unzip("data/siconv_convenio.zip", # arquivo zip para descompactar
+                 exdir = "data") # local para descompactar: pasta data
+convenio <- readr::read_csv2("data/siconv_convenio.csv")  # abrir o arquivo csv
+
+
+glimpse(convenio)
+
+
+```
+
+```{r emendas}
+
+
+
+download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_emenda.csv.zip", # url do arquivo para baixar
+              destfile = "data/siconv_emenda.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+
+datazip <- unzip("data/siconv_emenda.zip", # arquivo zip para descompactar
+                 exdir = "data") # local para descompactar: pasta data
+emenda <- readr::read_csv2("data/siconv_emenda.csv")  # abrir o arquivo csv
+
+
+glimpse(emenda)
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+library(httr)
+library(tidyverse)
+
+# Create a vector of CSV URLs
+urls <- c("https://repositorio.dados.gov.br/seges/detru/siconv_convenio.csv.zip")
+
+# Loop through the URLs and download the zip files
+for (url in urls) {
+  
+  # Download the zip file
+  response <- GET(url)
+  content <- content(response, as = "raw")
+  
+  # Get the filename from the URL
+  filename <- basename(url)
+  
+  # Write the zip file to the working directory
+  writeBin(content, filename)
+  
+  # Unzip the file
+  unzip(filename)
+  
+  # Read the unzipped csv
+  df <- read.csv(gsub(".zip", "", filename))
+  
+  # Do something with the dataframe
+  # ...
+}
+
+```
+
+

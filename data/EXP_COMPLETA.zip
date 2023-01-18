@@ -1,0 +1,7475 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+  <!-- Google Tag Manager -->
+  <script type="text">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
+  <!-- End Google Tag Manager -->
+
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://www.gov.br/produtividade-e-comercio-exterior",
+            "logo": "https://www.gov.br/produtividade-e-comercio-exterior/logo.png"
+        }</script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.gov.br/produtividade-e-comercio-exterior",
+            "potentialAction": {
+              "@type": "SearchAction",
+              "target": "https://www.gov.br/produtividade-e-comercio-exterior/search?SearchableText={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+        }</script>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    
+        <base href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        <meta property="og:title" content="Produtividade e Comércio Exterior" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index" />
+<meta property="og:image" content="https://www.gov.br/produtividade-e-comercio-exterior/logo.png" />
+
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Ministério da Economia" />
+
+
+  
+
+  
+  
+  <script type="text">
+    (function() {
+        var po = document.createElement('script');
+        po.async = true;
+        po.src = document.location.protocol + '//connect.facebook.net/pt_BR/all.js#xfbml=1';
+        var head = document.getElementsByTagName('head')[0];
+        head.appendChild(po);
+    }());
+    </script>
+
+
+
+  
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@" />
+  
+
+
+
+
+
+<meta property="creator.productor" content="https://www.gov.br/produtividade-e-comercio-exterior" />
+
+
+
+  
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/reset-cachekey-203a4aef5bf8b9784dcb477915268d33.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/base-cachekey-d8b9369d442eba9f646952a14389b5b9.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b24371b013664921753697b7761378b3.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourceplone.formwidget.datetimestyles-cachekey-12c1a403d38b2356d85ea1cfe516753e.css" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-aba0b578f6a88bd0afda0270e67b852f.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/embedder-cachekey-467f4c525915406b362d0591df740583.css" media="screen" />
+    <style type="text/css" media="screen">@import url(https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourcecollective.pollscsscollective.polls-cachekey-b34c8fe3db47a231504ff5ac10b9d673.css);</style>
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/IEFixes-cachekey-62fc25bad3eead0a7c57784feb0e22cd.css" media="screen" />
+        <![endif]-->
+    
+    <style type="text/css" media="all">@import url(https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourcepas.plugins.loginunicologinunico-cachekey-3066d9afc807eca5367dc347166603bc.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourcegovbr.policycanais-cachekey-3d59db46961ca4a09740ff15f24717e0.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/resourcelgpd.plugindsgov.min-cachekey-df9d1325521c1752ed8566070984c142.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="https://www.gov.br/produtividade-e-comercio-exterior/portal_css/Sunburst%20Theme/ploneCustom-cachekey-6af786ef1dcd366c1460af1071e3a9c3.css" media="all" />
+
+  
+  
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/++resource++govbr.recomendacao/govbr.recom.38b85c5f1c9c08acdcd9.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/themegovbr.institucionaljslistar_autoridades_eagenda-cachekey-13eddf8d9bc916d15d0aaad750d131be.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-7a87fc076a46798da8da3f9c47188b4c.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyfolder_contents-cachekey-9619ff2f7683a93f7d834f2d8c860b83.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcegovbr.policycookiebar_1_3_55-cachekey-076f1edd6dccf7a10c7b3be26bea4ad3.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcegovbr.policyapplication_cookiebar_1_3_55-cachekey-2853907afd339055d5875fb4158a871d.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/collective.js.jqueryui.custom.min-cachekey-42e29cd1838da3b688f24ac0a396249b.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourceplone.formwidget.recurrencejquery.tmpl-beta1-cachekey-0113efe365a05c4c9f905fc448ef4e39.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcecollective.js.bootstrapjsbootstrap.min-cachekey-d69d52aca70606a8113be1fe95d30447.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcecollective.coverjsmain-cachekey-892f0a3bcb55447c47f4680634e152bb.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcebrasil.gov.tilesvendorjquery.jplayer.min-cachekey-c9b264741dafc6282320163a40af3633.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcedropdown-menu-cachekey-2f5824e041161d42cb1c373cef3f54a3.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js"></script>
+    <script type="text/javascript"></script>
+    <script type="text/javascript"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginchangeCookieImage-cachekey-1f38284098446326cdf03a4b319cb289.js"></script>
+    <script type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/portal_javascripts/Sunburst%20Theme/resourcelgpd.pluginblock_cookies-cachekey-e83aa4dc30dcec5b977ccc5fbbe7a3cb.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.agenda/brasilgovagenda-720c34e.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.portal/brasilgovportal-ee510e4.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.portal/brasilgovportal-ee510e4.js"></script>
+
+
+
+  <link rel="stylesheet" href="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.css" />
+
+
+  <script defer="defer" src="https://www.gov.br/produtividade-e-comercio-exterior/++resource++brasil.gov.tiles/brasilgovtiles-7d5753d.js"></script>
+
+
+
+<title>Produtividade e Comércio Exterior — Português (Brasil)</title>
+
+<link rel="http://purl.org/dc/terms/subject http://schema.org/about http://xmlns.com/foaf/0.1/primaryTopic" href="http://vocab.e.gov.br/2011/03/vcge#esquema" />
+        
+    <link rel="author" href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br" title="Informações do Autor" />
+
+    <link rel="canonical" href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br" />
+
+    
+    
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['pt-BR'],
+                {dateFormat: 'dd/mm/yy'}));
+            }
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/@@search" title="Buscar neste site" />
+
+
+
+        
+        
+        
+        
+        
+
+        
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+
+    
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/produtividade-e-comercio-exterior/++theme++padrao_govbr/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/produtividade-e-comercio-exterior/++theme++padrao_govbr/favicons/favicon-32x32.png" />
+    <link rel="shortcut icon" type="image/png" href="/produtividade-e-comercio-exterior/++theme++padrao_govbr/favicons/favicon-48x48.png" />
+    <link rel="mask-icon" href="/produtividade-e-comercio-exterior/++theme++padrao_govbr/favicons/safari-pinned-tab.svg" color="#00a300" />
+    <meta name="msapplication-config" content="favicons/browserconfig.xml" />
+    <meta name="theme-color" content="#00a300" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" crossorigin="anonymous" />
+    <style>
+        body.userrole-authenticated .btn.btn-success.fileinput-button span:after {
+            content: "Adicionar Arquivos" !important;
+        }
+    </style>
+    <script type="module" id="sso-status-bar-js" src="/cdn/sso-status-bar/src/js/sso-status-bar.js"></script>
+<link href="/produtividade-e-comercio-exterior/++theme++padrao_govbr/govbrtheme-27a558f.css" rel="stylesheet" /></head>
+
+<body id="" class="default-header-template portal-institucional cover-layout-layout-vazio template-standard portaltype-collective-cover-content site-pt-br section-index userrole-anonymous" data-base-url="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index" data-portal-url="https://www.gov.br/produtividade-e-comercio-exterior" dir="ltr">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe height="0" width="0" style="display:none;visibility:hidden" data-src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <nav class="govbr-skip-menu" aria-label="Acesso rápido">
+    <a href="#wrapper" accesskey="1">
+      <span class="sr-only">Ir para o</span>
+      Conteúdo
+      <span class="access-key">1</span>
+    </a>
+    <a href="/" accesskey="2">
+      <span class="sr-only">Ir para a</span>
+      Página Inicial
+      <span class="access-key">2</span>
+    </a>
+    <a href="#main-navigation" accesskey="3">
+      <span class="sr-only">Ir para o menu de</span>
+      Navegação
+      <span class="access-key">3</span>
+    </a>
+    <a href="#govbr-busca-input" accesskey="4">
+      <span class="sr-only">Ir para a</span>
+      Busca
+      <span class="access-key">4</span>
+    </a>
+    <a href="#portal-footer" accesskey="5">
+      <span class="sr-only">Ir para o</span>
+      Mapa do site
+      <span class="access-key">5</span>
+    </a>
+  </nav>
+
+  <noscript aria-label="Aviso de Javascript desabilitado">
+    <dl class="portalMessage attention erro-javascript">
+      <dt>Atenção!</dt>
+      <dd>Seu navegador não pode executar javascript. Alguns recursos podem não funcionar corretamente.</dd>
+    </dl>
+  </noscript>
+<div id="barra-identidade">
+    <div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;">
+            
+    </div>
+</div><!-- User --><!-- Header --><!--
+    Para habilitar o novo menu &#233; necess&#225;rio descoment&#225;-lo em:
+    govbr/institucional/viewlets/institucional_menu_govbr.pt
+    --><!-- <header id="site-header" class="has-navigation-swipe"> --><header id="site-header" class="has-navigation-dropdown">
+        <div class="header-wrapper secondary">
+            <div class="portal-name">
+                <a href="https://www.gov.br/pt-br" class="portal-logo">
+                    <span class="sr-only">Portal Gov.br</span>
+                </a>
+                <a href="https://www.gov.br/produtividade-e-comercio-exterior" class="nome-orgao">Sec. Esp. de Comércio Exterior e Assuntos Internacionais. Sec. Esp. de Produtividade e Competitividade.</a>
+            </div>
+
+            
+        <div class="site-header-links">
+          <div class="links-rapidos">
+            <a class="toggle-links-rapidos" href="#" title="Acesso rápido">
+              <span class="fas fa-ellipsis-v"></span>
+              <span class="sr-only">Acesso rápido</span>
+            </a>
+
+            <ul>
+              <li class="titulo">Acesso rápido</li>
+              <li>
+                <a href="https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+              </li>
+              <li>
+                <a href="http://www4.planalto.gov.br/legislacao">Legislação</a>
+              </li>
+              <li>
+                <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+              </li>
+              <!--<li>
+                <a href="http://www.vlibras.gov.br/" class="link-vlibras">
+                  <span class="fas fa-assistive-listening-systems"></span>
+                </a>
+              </li>-->
+            </ul>
+          </div>
+          <ul class="header-icons">
+            
+            <li>
+              <a href="#" class="reset-cookies" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+            </li>
+            <li>
+              <a href="#" class="link-contraste">
+                <span class="fas fa-adjust" aria-hidden="true"></span>
+                <span class="sr-only">Mudar para o modo de alto contraste</span>
+              </a>
+            </li>
+          </ul>
+
+          <sso-status-bar id="barra-sso" authorization-src="/cdn/oauth2-authorization-client-resources/src/html/oauth2-authorization-url.html" sign-out-href="/cdn/govbrportal/src/html/logout-endpoint.html" sign-in-href="/cdn/govbrportal/src/html/oauth2-authorization-url.html" cookie-monitor-cookie-name="KEYCLOAK_SESSION" cookie-monitor-src="https://sso.acesso.gov.br/session-management/html/cookie-monitor-server.html">
+            <sso-status-bar-section title="Minha conta">
+              <sso-status-bar-item title="Dados Pessoais" href="https://contas.acesso.gov.br/alteracao_cadastro">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Segurança da Conta" href="https://contas.acesso.gov.br/seguranca">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Privacidade" href="https://contas.acesso.gov.br/privacidade">
+              </sso-status-bar-item>
+            </sso-status-bar-section>
+            <sso-status-bar-section title="Serviços">
+              <sso-status-bar-item title="Carteira de Documentos" href="https://servicos.acesso.gov.br/carteira">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Baixar certidões" href="https://servicos.acesso.gov.br/certidoes">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Assinar documentos digitalmente" href="https://assinador.iti.br/assinatura">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Notificações" href="https://servicos.acesso.gov.br/notificacoes">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Perguntas frequentes" href="https://www.gov.br/governodigital/pt-br/conta-gov-br/perguntas-frequentes">
+              </sso-status-bar-item>
+            </sso-status-bar-section>
+          </sso-status-bar>
+        </div>
+      
+
+        </div>
+
+        <div class="main">
+            <div class="header-wrapper">
+                <div class="site-name-wrapper">
+                    <a class="ico-navegacao toggle-main-navigation" href="#">
+                        <span class="sr-only">Abrir menu principal de navegação</span>
+                        <span class="fa fa-bars" aria-hidden="true"></span>
+                        <span class="fa fa-times" aria-hidden="true"></span>
+                    </a>
+
+                    <!-- <a href="/" class="site-name">Nome do site</a> -->
+                    <!-- Usar nome completo -->
+                    
+                    <div class="site-name">
+                        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br">Ministério da Economia</a>
+                    </div>
+                </div>
+
+                <div class="govbr-busca-header">
+                    <div id="govbr-busca-input"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Menu -->
+        <nav class="navigation-wrapper navigation-dropdown" aria-label="Menu Principal">
+            <div class="navigation-content">
+                <div id="main-navigation" class="navigation-cell">
+                    <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade" class="plain">Secretaria Especial de Produtividade e Competitividade</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade/organizacional" class="state-published hasDropDown">
+            
+            Quem é Quem
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/acesso-a-informacao/institucional/quem-e-quem/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Quem é Quem na SEPEC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://antigo.economia.gov.br/Economia/agendas/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Agenda Pública
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/economiasepec/" class="state-published">
+            
+            Instagram SEPEC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/economiasepec/" class="state-published">
+            
+            Instagram
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.linkedin.com/company/economiasepec/posts/?feedView=all" class="state-published">
+            
+            Linkedin
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://twitter.com/EconomiaSepec?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="state-published">
+            
+            Twitter
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.facebook.com/pg/EconomiaSepec/posts/" class="state-published">
+            
+            Facebook
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade/programas-estrategicos-vinculadas" class="state-published">
+            
+            Programas Estratégicos Vinculadas
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao" class="plain">Acesso à informação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas" class="state-published hasDropDown">
+            
+            Agendas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Secretaria Especial de Produtividade, Emprego e Competitividade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas/secretaria-especial-de-comercio-exterior-e-assuntos-internacionais" class="state-published">
+            
+            Secretaria Especial de Comércio Exterior e Assuntos Internacionais
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas" class="state-published hasDropDown">
+            
+            Ações e Programas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-secint" class="state-published">
+            
+            Programa de Gestão - Secint
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao" class="state-published hasDropDown">
+            
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/leis" class="state-published">
+            
+            Leis
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/decretos" class="state-published">
+            
+            Decretos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/copy_of_portarias-interministeriais" class="state-published">
+            
+            Portarias Interministeriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/portarias" class="state-published">
+            
+            Portarias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/convenios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/portarias-secex" class="state-published">
+            
+            Portarias - Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/circulares-secex" class="state-published">
+            
+            Circulares - Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas-secex" class="state-published">
+            
+            Instruções Normativas - SECEX
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes" class="state-published hasDropDown">
+            
+            Licitações
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/credenciamentos" class="state-published">
+            
+            Credenciamentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/dispensas-2016" class="state-published">
+            
+            Dispensas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/editais-2" class="state-published">
+            
+            Editais PNUD
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/inexigibilidades" class="state-published">
+            
+            Inexigibilidades
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/licitacoes-em-andamento" class="state-published">
+            
+            Licitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/relatorios-de-compras-e-licitacoes" class="state-published">
+            
+            Relatórios de Compras e Licitações
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos" class="state-published hasDropDown">
+            
+            Contratos
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2018" class="state-published">
+            
+            2018
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2017" class="state-published">
+            
+            2017
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2016" class="state-published">
+            
+            2016
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2015" class="state-published">
+            
+            2015
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2014" class="state-published">
+            
+            2014
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2013" class="state-published">
+            
+            2013
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/pda-contratos" class="state-published">
+            
+            PDA Contratos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/auditorias" class="state-published">
+            
+            Auditorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/convenios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/atos-internacionais" class="state-published">
+            
+            Atos Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/gestao-estrategica" class="state-published">
+            
+            Gestão Estratégica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/dados-abertos" class="state-published">
+            
+            Dados Abertos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/servidores" class="state-published">
+            
+            Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/informacoes-classificadas" class="state-published">
+            
+            Informações Classificadas
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/perguntas-frequentes" class="state-published hasDropDown">
+            
+            Perguntas Frequentes
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/perguntas-frequentes/arquivos" class="state-published">
+            
+            Arquivos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao" class="state-published">
+            
+            Serviço de Informação ao Cidadão
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/carta-de-servicos" class="state-published">
+            
+            Carta de Serviços
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/advocacia-da-concorrencia-e-competitividade" class="state-published hasDropDown">
+            
+            Advocacia da Concorrência e Competitividade
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/advocacia-da-concorrencia-e-competitividade/parecer-seae" class="state-published">
+            
+            Parecer SEAE
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais" class="state-published hasDropDown">
+            
+            Assuntos Econômicos Internacionais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/cofiex" class="state-published">
+            
+            Cofiex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-verde-do-clima" class="state-published">
+            
+            Fundo Verde do Clima
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/cooperacao-internacional" class="state-published">
+            
+            Cooperação internacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-brasil-china" class="state-published">
+            
+            Fundo Brasil - China
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/pagamentos-a-organizacoes-internacionais" class="state-published">
+            
+            Pagamentos a organizações internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/promocao-de-investimentos-internacionais" class="state-published">
+            
+            Promoção de Investimentos Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-para-o-meio-ambiente-mundial-gef-financiamento-de-projetos" class="state-published">
+            
+            Fundo para o meio ambiente mundial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-investimentos-estrangeiros" class="state-published">
+            
+            Boletim de Investimentos Estrangeiros
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex" class="state-published hasDropDown">
+            
+            Câmara de Comércio Exterior (Camex)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/atas-e-resolucoes" class="state-published">
+            
+            Atas, resoluções e outros documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/calendario-de-eventos" class="state-published">
+            
+            Calendário de eventos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/estrategia-comercial" class="state-published">
+            
+            Estratégia Comercial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/financiamento-ao-comercio-exterior" class="state-published">
+            
+            Financiamento ao Comércio Exterior
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/investimentos-estrangeiros" class="state-published">
+            
+            Investimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/consultas-publicas" class="state-published">
+            
+            Consultas Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://oid.economia.gov.br/" class="state-published">
+            
+            Apoio ao Investidor - OID
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/pcn" class="state-published">
+            
+            Ponto de Contato Nacional - PCN
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/sobre-a-camex" class="state-published">
+            
+            Sobre a Camex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/colegiados/conselho-consultivo-do-setor-privado-conex" class="state-published">
+            
+            Conselho Consultivo do Setor Privado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/canais-de-atendimento" class="state-published">
+            
+            Canais de Atendimento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/imposto-zero" class="state-published">
+            
+            Imposto Zero
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior" class="state-published hasDropDown">
+            
+            Comércio Exterior
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/operacoes-de-comercio-exterior" class="state-published">
+            
+            Operações de Comércio Exterior
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/negociacoes-internacionais-" class="state-published">
+            
+            Negociações Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/consultas-publicas-da-secex" class="state-published">
+            
+            Consultas públicas da Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/publicacoes-secex" class="state-published">
+            
+            Publicações SECEX
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico" class="state-published">
+            
+            Defesa Comercial e Interesse Público
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas" class="state-published">
+            
+            Estatísticas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/pnce" class="state-published">
+            
+            Internacionalização de Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/regimes-de-origem" class="state-published">
+            
+            Regimes de Origem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://siscomex.gov.br/acordos-comerciais/" class="state-published">
+            
+            Acordos Comerciais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/normativas-secex" class="state-published">
+            
+            Normativas SECEX
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos" class="state-published hasDropDown">
+            
+            Comércio e Serviços
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/setor-de-comercio" class="state-published">
+            
+            Setor de Comércio
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/comercio-mais-digital" class="state-published">
+            
+            Comércio Mais Digital
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/setor-de-servicos" class="state-published">
+            
+            Setor de Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/nbs-nomenclatura-brasileira-de-servicos" class="state-published">
+            
+            NBS - Nomenclatura Brasileira de Serviços
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial" class="state-published hasDropDown">
+            
+            Competitividade Industrial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/arranjos-produtivos-locais-apl" class="state-published">
+            
+            Arranjos Produtivos Locais- APL
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/building-information-modelling-bim" class="state-published">
+            
+            Building Information Modelling - BIM
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/brasil-mais" class="state-published">
+            
+            Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/ex-tarifario" class="state-published">
+            
+            Ex-Tarifário
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/livros" class="state-published">
+            
+            Livros
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processos-de-contas-anuais" class="state-published">
+            
+            Processos de Contas Anuais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processo-produtivo-basico-ppb" class="state-published">
+            
+            Processo Produtivo Básico - PPB
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/setor-automotivo" class="state-published">
+            
+            Setor Automotivo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/sustentabilidade" class="state-published">
+            
+            Sustentabilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/pmr" class="state-published">
+            
+            Projeto PMR Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao" class="state-published hasDropDown">
+            
+            Inovação e Transformação Digital
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao/enimpacto" class="state-published">
+            
+            Enimpacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao/marco-legal-de-startups" class="state-published">
+            
+            Marco Legal de Startups
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/startuppoint/pt-br" class="state-published">
+            
+            Startup Point
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/propriedade-intelectual" class="state-published">
+            
+            Propriedade Intelectual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.inovativabrasil.com.br/" class="state-published">
+            
+            InovAtiva
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.outreachbrasil.com/" class="state-published">
+            
+            Startup OutReach Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://camara40.com.br/" class="state-published">
+            
+            Câmara da Indústria 4.0
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/brasilmais/brasil-mais/" class="state-published">
+            
+            Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/micro-e-pequena-empresa" class="state-published">
+            
+            Micro e Pequena Empresa
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/ocde" class="state-published hasDropDown">
+            
+            OCDE
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/ocde/conselho-brasil-ocde-1/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/assuntos/comercio-exterior-e-atuacao-internacional/organizacao-para-cooperacao-e-desenvolvimento-economico-ocde" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/ocde/conselho-brasil-ocde-1/conselho-brasil-ocde" class="state-published">
+            
+            Conselho Brasil-OCDE
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/reducao-do-custo-brasil" class="state-published hasDropDown">
+            
+            Redução do Custo Brasil
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUNTZOOERJOE5GR0pVVjRBMlBLV1hYUTBOTC4u" class="state-published">
+            
+            Envie suas Proposições
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUOEJXOEtMVUg5WTdZRUI1OTRHWTBKWlVYOS4u" class="state-published">
+            
+            Envie suas Proposições Simplificado
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/noticias" class="state-published">
+            
+            Repositório de Notícias
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe" class="state-published hasDropDown">
+            
+            Zonas de Processamento de Exportação (ZPE)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/processo-de-criacao" class="state-published">
+            
+            Processo de criação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/projetos-industriais" class="state-published">
+            
+            Projetos industriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/publicacoes-antigo" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/regime-brasileiro-de-zpe" class="state-published">
+            
+            Regime brasileiro de ZPE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/publicacoes" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas" class="plain">Balança Comercial</a></li><li class="plain"><a href="/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/comex-vis" class="plain">Comex Vis</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/composicao" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="/economia/pt-br/imagens/organograma_v11.pdf/" class="state-published">
+            
+            Organograma
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/economia/pt-br/acesso-a-informacao/institucional/quem-e-quem" class="state-published">
+            
+            Quem é Quem
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://www.siscomex.gov.br/" class="plain">Siscomex</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo/publicacoes" class="state-published hasDropDown">
+            
+            Publicações
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo/publicacoes/relatorios" class="state-published">
+            
+            Relatórios
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios" class="plain">Ambiente de Negócios</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil" class="state-published hasDropDown">
+            
+            Redução do Custo Brasil
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/projetos-prioritarios-1" class="state-published">
+            
+            Projetos Prioritários
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/a-equipe" class="state-published">
+            
+            Conheça o Nosso Time
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUNTZOOERJOE5GR0pVVjRBMlBLV1hYUTBOTC4u" class="state-published">
+            
+            Envie suas Proposições
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/documentos" class="state-published">
+            
+            Documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/sobre-o-projeto-1" class="state-published">
+            
+            Sobre o Projeto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/links" class="state-published">
+            
+            Links
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/historico-de-relatorios" class="state-published">
+            
+            Histórico de Relatórios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/hub-gestao-de-programas-e-projetos" class="state-published">
+            
+            Gestão de Programas e Projetos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/medidas-emergenciais-1" class="state-published">
+            
+            Medidas Emergenciais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUOEJXOEtMVUg5WTdZRUI1OTRHWTBKWlVYOS4u" class="state-published">
+            
+            Envie suas Proposições Simplificado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/ex-tarifario" class="state-published">
+            
+            Ex-Tarifário
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/precificacao-dos-projetos" class="state-published">
+            
+            Precificação dos projetos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/processo-produtivo-basico-ppb" class="state-published">
+            
+            Processo Produtivo Básico - PPB
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/acesso-a-informacao/reg" class="state-published">
+            
+            Regulação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/empreendedor" class="state-published">
+            
+            Portal do Empreendedor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/forum-permanente" class="state-published">
+            
+            Fórum Permanente de MPEs
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe" class="state-published hasDropDown">
+            
+            Zonas de Processamento de Exportação (ZPE)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/brazilian-export-processing-zones-epz" class="state-published">
+            
+            Brazilian Export Processing Zones (EPZ)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/processo-de-criacao" class="state-published">
+            
+            Processo de criação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/projetos-industriais" class="state-published">
+            
+            Projetos industriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/publicacoes-antigo" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/regime-brasileiro-de-zpe" class="state-published">
+            
+            Regime brasileiro de ZPE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/publicacoes" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial" class="state-published hasDropDown">
+            
+            Competitividade Industrial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/ex-tarifario" class="state-published">
+            
+            Ex-Tarifários
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processo-produtivo-basico-ppb" class="state-published">
+            
+            PPB - Processo Produtivo Básico
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/arranjos-produtivos-locais-apl" class="state-published">
+            
+            Arranjos Produtivos Locais- APL
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/building-information-modelling-bim" class="state-published">
+            
+            Building Information Modelling - BIM
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/setor-automotivo" class="state-published">
+            
+            Setor Automotivo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/chamamento-publico" class="state-published">
+            
+            Chamamento Público
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/complexo-quimico-e-da-saude" class="state-published">
+            
+            Complexo Químico e da Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/design" class="state-published">
+            
+            Design
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/gan" class="state-published">
+            
+            GAN
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/gtati" class="state-published">
+            
+            GTATI
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/integracao-produtiva-e-competitividade-internacional" class="state-published">
+            
+            Integração Produtiva e Competitividade Internacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/pedefor" class="state-published">
+            
+            Pedefor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/processos-de-contas-anuais" class="state-published">
+            
+            Processos de Contas Anuais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/renai" class="state-published">
+            
+            Renai
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/acoes-e-programas" class="state-published">
+            
+            Ações e Programas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/livros" class="state-published">
+            
+            Livros
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/sustentabilidade" class="state-published">
+            
+            Sustentabilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/pmr" class="state-published">
+            
+            Projeto PMR Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/construa-brasil" class="state-published">
+            
+            Construa Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/comercio-e-servicos" class="state-published">
+            
+            Comércio e Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/liberdade-economica" class="state-published">
+            
+            Liberdade Econômica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/melhores-praticas-em-regulacao-rodoviaria" class="state-published">
+            
+            Melhores práticas em regulação rodoviária
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado" class="plain">Choque de Investimento Privado</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/avaliacao-de-impacto" class="state-published">
+            
+            Avaliação de Impacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://investimentos.economia.gov.br/" class="state-published">
+            
+            Monitor de Investimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/modelo-de-cinco-dimensoes" class="state-published">
+            
+            Modelo de Cinco Dimensões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/avaliacao-socioeconomica-de-custo-beneficio-1" class="state-published">
+            
+            Avaliação Socioeconômica de Custo Benefício
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/proposta-de-racionalizacao-tributaria-em-telecom" class="state-published">
+            
+            Proposta de Racionalização Tributária em Telecom
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/investimentos-em-residuos-solidos" class="state-published">
+            
+            Investimentos em Resíduos Sólidos
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital" class="plain">Futuro Digital e Produtivo</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.inovativabrasil.com.br/" class="state-published">
+            
+            InovAtiva
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.startoutbrasil.com.br/" class="state-published">
+            
+            StartOut Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/startuppoint/pt-br" class="state-published">
+            
+            Startup Point
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital/brasil-mais" class="state-published">
+            
+            Programa Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://camara40.com.br/" class="state-published">
+            
+            Câmara da Indústria 4.0
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/propriedade-intelectual" class="state-published">
+            
+            Portal Propriedade Intelectual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital/marco-legal-de-startups" class="state-published">
+            
+            Marco Legal de Startups
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic" class="plain">Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/noticias" class="state-published hasDropDown">
+            
+            Notícias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/noticias/2023" class="state-published">
+            
+            2023
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/redes-sociais" class="state-published hasDropDown">
+            
+            Redes Sociais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://twitter.com/MDICoficial" class="state-published">
+            
+            Twitter
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/mdicoficial/" class="state-published">
+            
+            Instragram
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.youtube.com/@MDICoficial" class="state-published">
+            
+            Youtube
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.facebook.com/MDICoficial" class="state-published">
+            
+            Facebook
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.linkedin.com/company/mdic-oficial/" class="state-published">
+            
+            Linkedin
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.flickr.com/photos/mdicgovbr/" class="state-published">
+            
+            Flickr
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/imagens" class="state-published">
+            
+            Imagens
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li id="portaltab-govbr-root" class="plain dropdown-submenu menu-govbr-root">
+            <a class="plain" href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index">
+                <span>GOV.BR</span>
+            </a>
+            <!-- Menu nivel1 -->
+            <ul class="submenu navTree">
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/servicos" class="hasDropDown">Serviços</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/buscar-servicos-por">Buscar serviços por</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/categorias">Categorias</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_orgaos">Órgãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos-estaduais">Estados</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+            <li class="dropdown-submenu">
+                <a href="https://www.gov.br/pt-br/servicos/servicos-por-publico-alvo">Serviços por público alvo</a>
+                
+                    
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_cidadaos">Cidadãos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_empresas">Empresas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_orgaos">Órgãos e Entidades Públicas</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_outros">Demais segmentos (ONGs, organizações sociais, etc)</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/servicos/listar_servicos_segmento?segmento=publico_alvo_servidor">Servidor Público</a>
+                
+            </li>
+        
+    </ul>
+
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos" class="hasDropDown">Galeria de Aplicativos</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/noticias" class="hasDropDown">Notícias</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/servicos-para-o-cidadao">Serviços para o cidadão</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria">Saúde</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/agricultura-e-pecuaria">Agricultura e Pecuária</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/assistencia-social">Cidadania e Assistência Social</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/cultura-artes-historia-e-esportes">Cultura e Esporte</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica">Economia e Gestão Pública</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/educacao-e-pesquisa">Educação e Pesquisa</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis">Energia</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/forcas-armadas">Forças Armadas e Defesa Civil</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/transito-e-transportes">Infraestrutura</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/justica-e-seguranca">Justiça e Segurança</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/meio-ambiente-e-clima">Meio Ambiente</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/trabalho-e-previdencia">Trabalho e Previdência</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/noticias/viagens-e-turismo">Turismo</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="/planalto" class="hasDropDown">Acompanhe o Planalto</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/navegacao" class="hasDropDown">Navegação</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/governodigital/pt-br/acessibilidade-digital">Acessibilidade</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/sitemap">Mapa do Site</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/pt-br/termos-de-uso">Termos de Uso</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://gov.br/sobre">Sobre o gov.br</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="http://solicitacao.servicos.gov.br/" class="hasDropDown">Acesse sua conta gov.br</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/orgaos-do-governo" class="hasDropDown">Órgãos do Governo</a>
+                        
+                    </li>
+                
+                    <li class="plain">
+                        <a href="https://www.gov.br/pt-br/temas-em-destaque-1" class="hasDropDown">Temas em Destaque</a>
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/por-dentro-do-govbr" class="hasDropDown">Por dentro do Gov.br</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/perguntas-frequentes">Dúvidas Frequentes em relação ao Portal gov.br</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="http://faq-login-unico.servicos.gov.br/en/latest/">Dúvidas Frequentes da conta gov.br</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/ajuda-para-navegar-o-portal">Ajuda para Navegar o Portal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/por-dentro-do-govbr/conheca-os-elementos-do-portal">Conheça os elementos do Portal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/participamaisbrasil/sobre">Política de e-participação</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/pt-br/termos-de-uso">Termos de Uso</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/governodigital/pt-br">Governo Digital</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor">Guia de Edição de Serviços do Portal Gov.br</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+                    <li class="dropdown-submenu">
+                        <a href="https://www.gov.br/pt-br/dados-do-governo-federal" class="hasDropDown">Dados do Governo Federal</a>
+                        
+                            
+    <ul class="submenu navTree">
+        
+            <li class="plain">
+                <a href="/governodigital/pt-br/dados-abertos">Dados Abertos</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal">Painel Estatístico de Pessoal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="http://paineldecompras.economia.gov.br">Painel de Compras do Governo Federal</a>
+                
+            </li>
+        
+            <li class="plain">
+                <a href="/acessoainformacao/pt-br">Acesso à Informação</a>
+                
+            </li>
+        
+    </ul>
+
+                        
+                    </li>
+                
+            </ul>
+        </li></ul>
+                </div>
+            </div>
+
+            <div class="navigation-content-extra">
+                <div class="links-redes-wrap">
+            <div class="links-uteis">
+              <div class="titulo">Links Úteis</div>
+              <ul>
+                <!-- <li>
+                  <a href="#">Órgãos do Governo</a>
+                </li> -->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+            <div class="header-accessibility">
+              <ul>
+                <!--li>
+                  <a
+                    href="https://www.gov.br/pt-br/orgaos-do-governo"
+                    class="orgaos-de-governo"
+                    i18n:translate="orgaos_do_governo"
+                    >Órgãos do Governo</a
+                  >
+                </li-->
+                <li>
+                  <a href="https://www.gov.br/pt-br/apps/@@galeria-de-aplicativos">Galeria de Aplicativos</a>
+                </li>
+                <!--li>
+                  <a href="http://www4.planalto.gov.br/legislacao" i18n:translate="legislacao"
+                    >Legislação</a
+                  >
+                </li>
+                <li>
+                  <a href="https://www.gov.br/acessoainformacao/pt-br" i18n:translate="acesso_a_informacao"
+                    >Acesso à Informação</a
+                  >
+                </li-->
+                <li>
+                  <a href="https://www.gov.br/pt-br/participacao-social">Participe</a>
+                </li>
+              </ul>
+            </div>
+          
+                    <div class="redes-sociais">
+                        <div class="titulo">Redes sociais</div>
+                    <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/twitter">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/youtube">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/facebook">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/flickr">Flickr</a>
+                </li>
+            
+        </ul></div>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Menu -->
+        
+    </header><div id="portal-breadcrumbs-wrapper">
+        
+    </div><!-- <div class="video"></div> --><div id="wrapper">
+        <!-- Columns -->
+
+        <div id="main">
+            
+
+            <div class="viewlet-institucionais-servicos-govbr linha-recom">
+
+    <script type="text/javascript">window.mais_acessados=["10418","4892","12204","10966","60","10445"];</script>
+
+    <script type="text/javascript">window.destaques=["12572","12637","985","9529"];</script>
+
+
+    <div class="desktop">
+        <div class="row links-destaque-desktop headerDestaquesSwiper">
+            <div class="row-content">
+                <div class="column col-md-4">
+                    <a class="desktop-toggle-btn tile-name recomendado" href="#" data-slider="0">Serviços recomendados para você</a>
+                </div>
+
+                <div class="column col-md-4">
+                    <a class="desktop-toggle-btn tile-name mais-acessados" href="#" data-slider="1">Serviços mais acessados do govbr</a>
+                </div>
+
+                <div class="column col-md-4">
+                    <a class="desktop-toggle-btn tile-name destaque" href="#" data-slider="2">Serviços em destaque do govbr</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="swiper-container headerDestaquesSwiper swiper-mobile-recom">
+        <div class="swiper-wrapper">            
+            <a class="tile-name swiper-slide mobile-recom-toggle-btn recomendado" href="#" data-slider="0">Serviços recomendados para você</a>
+            <a class="tile-name swiper-slide mobile-recom-toggle-btn mais-acessados" href="#" data-slider="1">Serviços mais acessados do govbr</a>
+            <a class="tile-name swiper-slide mobile-recom-toggle-btn destaque" href="#" data-slider="2">Serviços em destaque do govbr</a>
+            <div class="swiper-slide fillin"></div>
+        </div>
+    </div>
+    
+    <div class="swiper-container headerDestaquesSwiper swiper-mobile-no-recom">
+        <div class="swiper-wrapper">                
+            <a class="tile-name swiper-slide mobile-no-recom-toggle-btn mais-acessados" href="#" data-slider="1">Serviços mais acessados do govbr</a>
+            <a class="tile-name swiper-slide mobile-no-recom-toggle-btn destaque" href="#" data-slider="2">Serviços em destaque do govbr</a>
+        </div>
+    </div>    
+
+    <div class="row linha-recom swiper-container destaquesSwiper">
+        <div class="row-content swiper-wrapper">
+            <div class="column col-md-4 swiper-slide govbr-recom-wrapper">
+                <div class="tile tile-default">
+                    <div class="govbr-recom-render" data-recom-title="Serviços recomendados para você" data-recom-size="6">
+                        <div class="header-mobile"><span>Serviços recomendados para você</span></div>
+                        <div class="govbr-recom-api" data-recom-uri="https://api.recomgov.df-1.estaleiro.serpro.gov.br/api/v1" data-recom-url-portal="https://www.gov.br" data-recom-timeout="3000">
+                        </div>
+
+                    </div>  
+                </div>
+            </div>
+
+            <div class="column col-md-4 swiper-slide">
+                <div class="tile tile-default">
+                    <div class="cover-list-tile tile-content servicos-mais-acessados">
+                        <div class="tile-header header-mobile">
+                            <span>Serviços mais acessados do govbr</span>
+                        </div>
+                        <div class="itens">
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas">
+                                    <span class="ranking">1</span>
+                                    <span class="texto">Consultar CPF</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/receber-o-abono-salarial">
+                                    <span class="ranking">2</span>
+                                    <span class="texto">Receber o Abono Salarial</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/consultar-e-solicitar-a-devolucao-de-valores-a-receber">
+                                    <span class="ranking">3</span>
+                                    <span class="texto">Consultar e solicitar a devolução de Valores a Receber</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda">
+                                    <span class="ranking">4</span>
+                                    <span class="texto">Consultar restituição do imposto de renda</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho">
+                                    <span class="ranking">5</span>
+                                    <span class="texto">Obter a Carteira de Trabalho</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-mais-acessados" href="https://www.gov.br/pt-br/servicos/emitir-certidao-de-regularidade-fiscal">
+                                    <span class="ranking">6</span>
+                                    <span class="texto">Emitir certidão de regularidade fiscal</span>
+                                </a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>                
+
+            <div class="column col-md-4 swiper-slide">
+                <div class="tile tile-default">
+                    <div class="cover-list-tile tile-content servicos-em-destaque-govbr">
+                        <div class="tile-header header-mobile">
+                            <span>Serviços em destaque do govbr</span>
+                        </div>
+
+                        <div class="itens">
+                            
+                                <a class="item-tile-servico-destaque" href="https://www.gov.br/pt-br/servicos/declarar-bens-para-viagem-internacional-dbv">
+                                    <span class="categoria-container">
+                                        <span class="categoria">Brasileiro indo para o exterior</span>
+                                        
+                                    </span>
+                                    <span class="texto">Declarar bens para viagem internacional</span>
+                                    <span> (DBV)</span>
+                                </a>
+                            
+                                <a class="item-tile-servico-destaque" href="https://www.gov.br/pt-br/servicos/solicitar-apoio-aos-povos-indigenas-em-situacoes-emergenciais">
+                                    <span class="categoria-container">
+                                        <span class="categoria">Atendimento Especializado</span>
+                                        
+                                    </span>
+                                    <span class="texto">Solicitar apoio aos povos indígenas em situações emergenciais</span>
+                                    
+                                </a>
+                            
+                                <a class="item-tile-servico-destaque" href="https://www.gov.br/pt-br/servicos/solicitar-bolsa-podio">
+                                    <span class="categoria-container">
+                                        <span class="categoria">Esportes</span>
+                                        
+                                    </span>
+                                    <span class="texto">Bolsa Atleta</span>
+                                    
+                                </a>
+                            
+                                <a class="item-tile-servico-destaque" href="https://www.gov.br/pt-br/servicos/acessar-centro-pop-centro-de-referencia-especializado-para-populacao-em-situacao-de-rua">
+                                    <span class="categoria-container">
+                                        <span class="categoria">Proteção Social</span>
+                                        
+                                    </span>
+                                    <span class="texto">Centro de Referência para População em Situação de Rua</span>
+                                    <span> (Centro POP)</span>
+                                </a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="swiper-pagination-destaques"></div>
+
+        <nav class="close-btn desktop-close-btn">
+            <a href="#">
+                <span class="fa fa-chevron-up">
+                    <span class="sr-only">Fechar</span>
+                </span>
+            </a>
+        </nav>
+
+        <nav class="close-btn mobile-close-btn">
+            <a href="#">
+                <span class="fa fa-chevron-up">
+                    <span class="sr-only">Fechar</span>
+                </span>            
+            </a>
+        </nav>
+
+        <nav class="close-btn mobile-close-btn-no-recom">
+            <a href="#">
+                <span class="fa fa-chevron-up">
+                    <span class="sr-only">Fechar</span>
+                </span>
+            </a>
+        </nav>
+
+        <div class="linha-no-recom-btn-close-mobile"></div>
+        <div class="linha-recom-btn-close-mobile"></div>
+    </div>
+</div><main id="main-content">
+
+            <div id="viewlet-above-content">
+
+
+<div id="viewlet-tileshare" data-title-fb="Compartilhar no Facebook (abre em nova janela)" data-title-twitter="Tweet (abre em nova janela)" data-title-linkedin="Compartilhar no Linkedin  (abre em nova janela)" data-title-gplus="Compartilhar no Google+  (abre em nova janela)" data-title-link="Copiar para área de transferência" data-title-more="Mais opções">
+</div>
+
+
+
+    
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+    
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+            <h1 class="documentFirstHeading">Produtividade e Comércio Exterior</h1>
+        
+                             
+                             <div id="viewlet-below-content-title"></div>
+
+                             
+                                 
+                                 
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a href="#" class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).prepend(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+<div class="documentByLine" id="plone-document-byline">
+  
+
+  
+  
+    
+  
+  
+
+  
+      <span class="documentPublished">
+        <span>Publicado em</span>
+        <!-- TODO: Criar no arquivo de tradução uma máscara para a data aparecer no seguinte formato:
+             PT_BR: 15/10/2019 às 14:01
+             EN   : 10/15/2019 at 14:01
+        -->
+        <span class="value">24/06/2020 13h14</span>
+      </span>
+      <!-- TODO: Fazer esta comparação de uma forma melhor -->
+      <span class="documentModified">
+        <span>Atualizado em</span>
+        <span class="value">25/11/2022 16h21</span>
+      </span>
+  
+
+  
+
+  
+
+  
+
+  
+</div></div>
+                             <div id="content-core">
+                                 
+    
+        
+    
+        
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="d63a72fc-bba5-4a53-b382-2edb45cd1170">
+                        
+
+    <div class="outstanding-header tile-content">
+    
+
+    </div>
+
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="ac4dba35-1bd0-44e8-8512-b54933e1a8c8">
+                        
+        
+            <div class="tile-cards">
+                
+                
+                <div class="govbr-cards tile-content linha-cards-2c centralizar-cars">
+                    <div class="wrapper">
+                        
+                            <div class="card great-cards">
+                                <a class="govbr-card-content" href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade">
+                                    <span class="front">
+                                        
+                                            <span aria-hidden="true" class="fas fa-chart-line icone"></span>
+                                            
+                                        
+                                        <span class="titulo">Secretaria Especial de Produtividade e Competitividade</span>
+                                    </span>
+                                    
+                                        
+                                    
+                                </a>
+                            </div>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        
+        
+    
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row hidden-notebook">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="d3133bae-b3e7-4fa8-ab47-c6cb35aeba9d">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/economia/pt-br">
+          <img src="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index/@@govbr.institucional.banner/d3133bae-b3e7-4fa8-ab47-c6cb35aeba9d/@@images/7442f558-da8b-421f-abdd-22af7b80ea4e.jpeg" width="1024" height="465" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row hidden-mobile-ls hidden-tablet-ls">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="f8df56c6-c67d-4ad3-a674-138efbf5ef35">
+                        
+  
+
+  <div class="cover-banner-tile tile-content">
+
+    
+        <a href="https://www.gov.br/economia/pt-br">
+          <img src="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/index/@@govbr.institucional.banner/f8df56c6-c67d-4ad3-a674-138efbf5ef35/@@images/8ffe9b25-c33e-4f98-9707-fff8406b9ffa.jpeg" width="2400" height="198" alt="" />
+        </a>
+    
+
+    
+
+    <div class="visualClear"><!-- --></div>
+  </div>
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+                
+
+
+    
+
+        
+            
+            
+                <div class="row">
+                    <div class="row-content">
+
+                        
+                            
+    
+        
+            
+                
+                
+                    <div class="column col-md-12 " data-panel="">
+
+                        
+                            
+    
+        
+
+            
+                
+                    
+
+                    <div class="tile tile-default" id="af40a5de-ff6d-4033-b53b-062239af0f94">
+                        
+    
+        
+        <div class="cover-richtext-tile tile-content">
+            
+        </div>
+    
+
+                    </div>
+                
+            
+
+            
+
+            
+
+        
+    
+
+
+                        
+
+                    </div>
+                
+            
+        
+    
+
+
+                        
+
+                    </div>
+                </div>
+            
+        
+
+    
+
+
+
+            
+        
+    
+
+
+    
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a href="#" class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).prepend(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+    
+        <script class="social-links-script">
+        $(document).ready(function () {
+            for (let tile of $('.nitf-basic-tile')) {
+                if (!$(tile).find('.social-links').length) {
+                    var url = '#'
+                    $(tile).find('a').each(function(){
+                        url = $(this).attr('href');
+                    });
+                    var titulo = '#'
+                    $(tile).find('a').each(function(){
+                        titulo = $(this).text();
+                    });
+                    var imagem = url+'/logo.png'
+                    $(tile).find('img').each(function(){
+                        imagem = $(this).attr('src');
+                    });
+                    var link_telegram = $('<a title="Telegram" class="link-whatsapp"><span class="fab fa-telegram-plane"></span></a>');
+                    $(link_telegram).attr('href', 'https://telegram.me/share/url?url='+url);
+                    var link_whatsapp = $('<a title="WhatsApp" class="link-whatsapp"><span class="fab fa-whatsapp"></span></a>');
+                    $(link_whatsapp).attr('href', 'https://api.whatsapp.com/send?text='+url);
+                    var link_facebook = $('<a title="Facebook"><span class="fab fa-facebook-f"></span></a>');
+                    $(link_facebook).attr('href', 'http://www.facebook.com/sharer.php?u='+url);
+                    var link_twitter = $('<a title="Twitter"><span class="fab fa-twitter"></span></a>');
+                    $(link_twitter).attr('href', 'https://twitter.com/share?text='+titulo+'&url='+url);
+                    var link_linkedin = $('<a title="LinkedIn"><span class="fab fa-linkedin-in"></span></a>');
+                    $(link_linkedin).attr('href', 'https://www.linkedin.com/shareArticle?mini=true&title='+titulo+'&url='+url);
+                    var link_google = $('<a title="Google+"><span class="fab fa-google-plus-g"></span></a>');
+                    $(link_google).attr('href', 'https://plus.google.com/share?url='+url);
+                    var link_email = $('<a title="E-mail"><span class="fas fa-at"></span></a>');
+                    $(link_email).attr('href', url+'/sendto_form');
+                    var link_pinterest = $('<a title="Pinterest"><span class="fab fa-pinterest-p"></span></a>');
+                    $(link_pinterest).attr('href', 'https://pinterest.com/pin/create/button/?url='+url+'&media='+imagem+'&description='+titulo);
+                    var link_clipboard = $('<a class="link-clipboard" onclick="event.preventDefault()"><span class="fas fa-link"></span></a>');
+                    $(link_clipboard).attr('href', url);
+                    $(link_clipboard).attr('title', $('#viewlet-tileshare')[0].dataset.titleLink);
+                    var link_x = $('<a href="#" class="toggle-social-links"><span class="fas fa-share-alt"></span><span class="fas fa-times"></span></a>');
+                    var div_principal = $('<div class="social-links"></div>');
+                    $(div_principal).append(link_facebook);$(div_principal).append(link_twitter);
+                    $(div_principal).append(link_clipboard);
+                    $(div_principal).prepend(link_x);
+
+                    var container = $(tile).children('.tile-subtitle');
+                    $(container).append(div_principal);
+                }
+            }
+            new ClipboardJS('.link-clipboard', {
+                text: function (trigger) {
+                    return trigger.getAttribute('href');
+                }
+            });
+        });
+        </script>
+    
+    
+
+
+  
+
+
+<div class="govbr-recom-config" data-recom-history-title="Serviços que você acessou">
+
+
+            
+    
+
+</div>
+
+
+
+
+</div>
+        </main>
+
+            
+        </div>
+
+        <div class="conteudo-relacionado"></div>
+
+        <div class="govbr-history-render"></div>
+
+        <footer id="portal-footer" class="portal-footer">
+            <div class="footer-wrapper">
+                <div class="govbr-logo"></div>
+                <!--<div class="colunas-rodape">
+              <div class="coluna-menu">-->
+                <ul class="list-navigation"><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade" class="plain">Secretaria Especial de Produtividade e Competitividade</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade/organizacional" class="state-published hasDropDown">
+            
+            Quem é Quem
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/acesso-a-informacao/institucional/quem-e-quem/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Quem é Quem na SEPEC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://antigo.economia.gov.br/Economia/agendas/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Agenda Pública
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/economiasepec/" class="state-published">
+            
+            Instagram SEPEC
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/economiasepec/" class="state-published">
+            
+            Instagram
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.linkedin.com/company/economiasepec/posts/?feedView=all" class="state-published">
+            
+            Linkedin
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://twitter.com/EconomiaSepec?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" class="state-published">
+            
+            Twitter
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.facebook.com/pg/EconomiaSepec/posts/" class="state-published">
+            
+            Facebook
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/produtividade-e-competitividade/programas-estrategicos-vinculadas" class="state-published">
+            
+            Programas Estratégicos Vinculadas
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao" class="plain">Acesso à informação</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas" class="state-published hasDropDown">
+            
+            Agendas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas/secretaria-especial-de-produtividade-emprego-e-competitividade" class="state-published">
+            
+            Secretaria Especial de Produtividade, Emprego e Competitividade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/agendas/secretaria-especial-de-comercio-exterior-e-assuntos-internacionais" class="state-published">
+            
+            Secretaria Especial de Comércio Exterior e Assuntos Internacionais
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas" class="state-published hasDropDown">
+            
+            Ações e Programas
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/acoes-e-programas/programa-de-gestao-secint" class="state-published">
+            
+            Programa de Gestão - Secint
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao" class="state-published hasDropDown">
+            
+            Legislação
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/leis" class="state-published">
+            
+            Leis
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/decretos" class="state-published">
+            
+            Decretos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/copy_of_portarias-interministeriais" class="state-published">
+            
+            Portarias Interministeriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/portarias" class="state-published">
+            
+            Portarias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/convenios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/portarias-secex" class="state-published">
+            
+            Portarias - Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/circulares-secex" class="state-published">
+            
+            Circulares - Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas-secex" class="state-published">
+            
+            Instruções Normativas - SECEX
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes" class="state-published hasDropDown">
+            
+            Licitações
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/credenciamentos" class="state-published">
+            
+            Credenciamentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/dispensas-2016" class="state-published">
+            
+            Dispensas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/editais-2" class="state-published">
+            
+            Editais PNUD
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/inexigibilidades" class="state-published">
+            
+            Inexigibilidades
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/licitacoes-em-andamento" class="state-published">
+            
+            Licitações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/licitacoes/relatorios-de-compras-e-licitacoes" class="state-published">
+            
+            Relatórios de Compras e Licitações
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos" class="state-published hasDropDown">
+            
+            Contratos
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2018" class="state-published">
+            
+            2018
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2017" class="state-published">
+            
+            2017
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2016" class="state-published">
+            
+            2016
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2015" class="state-published">
+            
+            2015
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2014" class="state-published">
+            
+            2014
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/2013" class="state-published">
+            
+            2013
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/contratos/pda-contratos" class="state-published">
+            
+            PDA Contratos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/auditorias" class="state-published">
+            
+            Auditorias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/convenios" class="state-published">
+            
+            Convênios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/atos-internacionais" class="state-published">
+            
+            Atos Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/gestao-estrategica" class="state-published">
+            
+            Gestão Estratégica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/dados-abertos" class="state-published">
+            
+            Dados Abertos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/servidores" class="state-published">
+            
+            Servidores
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/informacoes-classificadas" class="state-published">
+            
+            Informações Classificadas
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/perguntas-frequentes" class="state-published hasDropDown">
+            
+            Perguntas Frequentes
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/perguntas-frequentes/arquivos" class="state-published">
+            
+            Arquivos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/servico-de-informacao-ao-cidadao" class="state-published">
+            
+            Serviço de Informação ao Cidadão
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/acesso-a-informacao/carta-de-servicos" class="state-published">
+            
+            Carta de Serviços
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos" class="plain">Assuntos</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/advocacia-da-concorrencia-e-competitividade" class="state-published hasDropDown">
+            
+            Advocacia da Concorrência e Competitividade
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/advocacia-da-concorrencia-e-competitividade/parecer-seae" class="state-published">
+            
+            Parecer SEAE
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais" class="state-published hasDropDown">
+            
+            Assuntos Econômicos Internacionais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/cofiex" class="state-published">
+            
+            Cofiex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-verde-do-clima" class="state-published">
+            
+            Fundo Verde do Clima
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/cooperacao-internacional" class="state-published">
+            
+            Cooperação internacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-brasil-china" class="state-published">
+            
+            Fundo Brasil - China
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/pagamentos-a-organizacoes-internacionais" class="state-published">
+            
+            Pagamentos a organizações internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/promocao-de-investimentos-internacionais" class="state-published">
+            
+            Promoção de Investimentos Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/assuntos-economicos-internacionais/fundo-para-o-meio-ambiente-mundial-gef-financiamento-de-projetos" class="state-published">
+            
+            Fundo para o meio ambiente mundial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/boletins/boletim-de-investimentos-estrangeiros" class="state-published">
+            
+            Boletim de Investimentos Estrangeiros
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex" class="state-published hasDropDown">
+            
+            Câmara de Comércio Exterior (Camex)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/atas-e-resolucoes" class="state-published">
+            
+            Atas, resoluções e outros documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/calendario-de-eventos" class="state-published">
+            
+            Calendário de eventos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/estrategia-comercial" class="state-published">
+            
+            Estratégia Comercial
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/financiamento-ao-comercio-exterior" class="state-published">
+            
+            Financiamento ao Comércio Exterior
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/investimentos-estrangeiros" class="state-published">
+            
+            Investimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/consultas-publicas" class="state-published">
+            
+            Consultas Públicas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://oid.economia.gov.br/" class="state-published">
+            
+            Apoio ao Investidor - OID
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/pcn" class="state-published">
+            
+            Ponto de Contato Nacional - PCN
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/sobre-a-camex" class="state-published">
+            
+            Sobre a Camex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/colegiados/conselho-consultivo-do-setor-privado-conex" class="state-published">
+            
+            Conselho Consultivo do Setor Privado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/canais-de-atendimento" class="state-published">
+            
+            Canais de Atendimento
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/camex/imposto-zero" class="state-published">
+            
+            Imposto Zero
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior" class="state-published hasDropDown">
+            
+            Comércio Exterior
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/operacoes-de-comercio-exterior" class="state-published">
+            
+            Operações de Comércio Exterior
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/negociacoes-internacionais-" class="state-published">
+            
+            Negociações Internacionais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/consultas-publicas-da-secex" class="state-published">
+            
+            Consultas públicas da Secex
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/publicacoes-secex" class="state-published">
+            
+            Publicações SECEX
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico" class="state-published">
+            
+            Defesa Comercial e Interesse Público
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas" class="state-published">
+            
+            Estatísticas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/pnce" class="state-published">
+            
+            Internacionalização de Empresas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/regimes-de-origem" class="state-published">
+            
+            Regimes de Origem
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="http://siscomex.gov.br/acordos-comerciais/" class="state-published">
+            
+            Acordos Comerciais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/normativas-secex" class="state-published">
+            
+            Normativas SECEX
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos" class="state-published hasDropDown">
+            
+            Comércio e Serviços
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/setor-de-comercio" class="state-published">
+            
+            Setor de Comércio
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/comercio-mais-digital" class="state-published">
+            
+            Comércio Mais Digital
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/setor-de-servicos" class="state-published">
+            
+            Setor de Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-e-servicos/nbs-nomenclatura-brasileira-de-servicos" class="state-published">
+            
+            NBS - Nomenclatura Brasileira de Serviços
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial" class="state-published hasDropDown">
+            
+            Competitividade Industrial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/arranjos-produtivos-locais-apl" class="state-published">
+            
+            Arranjos Produtivos Locais- APL
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/building-information-modelling-bim" class="state-published">
+            
+            Building Information Modelling - BIM
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/brasil-mais" class="state-published">
+            
+            Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/ex-tarifario" class="state-published">
+            
+            Ex-Tarifário
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/livros" class="state-published">
+            
+            Livros
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processos-de-contas-anuais" class="state-published">
+            
+            Processos de Contas Anuais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processo-produtivo-basico-ppb" class="state-published">
+            
+            Processo Produtivo Básico - PPB
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/setor-automotivo" class="state-published">
+            
+            Setor Automotivo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/sustentabilidade" class="state-published">
+            
+            Sustentabilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/pmr" class="state-published">
+            
+            Projeto PMR Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao" class="state-published hasDropDown">
+            
+            Inovação e Transformação Digital
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao/enimpacto" class="state-published">
+            
+            Enimpacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/inovacao/marco-legal-de-startups" class="state-published">
+            
+            Marco Legal de Startups
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/startuppoint/pt-br" class="state-published">
+            
+            Startup Point
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/propriedade-intelectual" class="state-published">
+            
+            Propriedade Intelectual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.inovativabrasil.com.br/" class="state-published">
+            
+            InovAtiva
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.outreachbrasil.com/" class="state-published">
+            
+            Startup OutReach Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://camara40.com.br/" class="state-published">
+            
+            Câmara da Indústria 4.0
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/brasilmais/brasil-mais/" class="state-published">
+            
+            Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/micro-e-pequena-empresa" class="state-published">
+            
+            Micro e Pequena Empresa
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/ocde" class="state-published hasDropDown">
+            
+            OCDE
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/ocde/conselho-brasil-ocde-1/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/assuntos/comercio-exterior-e-atuacao-internacional/organizacao-para-cooperacao-e-desenvolvimento-economico-ocde" class="state-published">
+            
+            Notícias
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/casacivil/pt-br/assuntos/ocde/conselho-brasil-ocde-1/conselho-brasil-ocde" class="state-published">
+            
+            Conselho Brasil-OCDE
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/reducao-do-custo-brasil" class="state-published hasDropDown">
+            
+            Redução do Custo Brasil
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUNTZOOERJOE5GR0pVVjRBMlBLV1hYUTBOTC4u" class="state-published">
+            
+            Envie suas Proposições
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUOEJXOEtMVUg5WTdZRUI1OTRHWTBKWlVYOS4u" class="state-published">
+            
+            Envie suas Proposições Simplificado
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/noticias" class="state-published">
+            
+            Repositório de Notícias
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe" class="state-published hasDropDown">
+            
+            Zonas de Processamento de Exportação (ZPE)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/processo-de-criacao" class="state-published">
+            
+            Processo de criação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/projetos-industriais" class="state-published">
+            
+            Projetos industriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/publicacoes-antigo" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/regime-brasileiro-de-zpe" class="state-published">
+            
+            Regime brasileiro de ZPE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/publicacoes" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/zpe/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas" class="plain">Balança Comercial</a></li><li class="plain"><a href="/produtividade-e-comercio-exterior/pt-br/assuntos/comercio-exterior/estatisticas/comex-vis" class="plain">Comex Vis</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/composicao" class="plain">Composição</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="/economia/pt-br/imagens/organograma_v11.pdf/" class="state-published">
+            
+            Organograma
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="/economia/pt-br/acesso-a-informacao/institucional/quem-e-quem" class="state-published">
+            
+            Quem é Quem
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain"><a href="http://www.siscomex.gov.br/" class="plain">Siscomex</a></li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo" class="plain">Centrais de Conteúdo</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo/publicacoes" class="state-published hasDropDown">
+            
+            Publicações
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/centrais-de-conteudo/publicacoes/relatorios" class="state-published">
+            
+            Relatórios
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios" class="plain">Ambiente de Negócios</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil" class="state-published hasDropDown">
+            
+            Redução do Custo Brasil
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/projetos-prioritarios-1" class="state-published">
+            
+            Projetos Prioritários
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/a-equipe" class="state-published">
+            
+            Conheça o Nosso Time
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUNTZOOERJOE5GR0pVVjRBMlBLV1hYUTBOTC4u" class="state-published">
+            
+            Envie suas Proposições
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/documentos" class="state-published">
+            
+            Documentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/sobre-o-projeto-1" class="state-published">
+            
+            Sobre o Projeto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/links" class="state-published">
+            
+            Links
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/historico-de-relatorios" class="state-published">
+            
+            Histórico de Relatórios
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/hub-gestao-de-programas-e-projetos" class="state-published">
+            
+            Gestão de Programas e Projetos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/medidas-emergenciais-1" class="state-published">
+            
+            Medidas Emergenciais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=aSnJPlFaGE-Kye-Y-6-peI3_HDtif6xAiitY5SVLc7pUOEJXOEtMVUg5WTdZRUI1OTRHWTBKWlVYOS4u" class="state-published">
+            
+            Envie suas Proposições Simplificado
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/ex-tarifario" class="state-published">
+            
+            Ex-Tarifário
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/precificacao-dos-projetos" class="state-published">
+            
+            Precificação dos projetos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/reducao-do-custo-brasil/processo-produtivo-basico-ppb" class="state-published">
+            
+            Processo Produtivo Básico - PPB
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/economia/pt-br/acesso-a-informacao/reg" class="state-published">
+            
+            Regulação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/empreendedor" class="state-published">
+            
+            Portal do Empreendedor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/empresas-e-negocios/pt-br/forum-permanente" class="state-published">
+            
+            Fórum Permanente de MPEs
+        </a>
+
+        
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe" class="state-published hasDropDown">
+            
+            Zonas de Processamento de Exportação (ZPE)
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/brazilian-export-processing-zones-epz" class="state-published">
+            
+            Brazilian Export Processing Zones (EPZ)
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/processo-de-criacao" class="state-published">
+            
+            Processo de criação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/projetos-industriais" class="state-published">
+            
+            Projetos industriais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/publicacoes-antigo" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/regime-brasileiro-de-zpe" class="state-published">
+            
+            Regime brasileiro de ZPE
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/institucional" class="state-published">
+            
+            Institucional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/legislacao" class="state-published">
+            
+            Legislação
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/publicacoes" class="state-published">
+            
+            Publicações
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/zpe/eventos" class="state-published">
+            
+            Eventos
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial" class="state-published hasDropDown">
+            
+            Competitividade Industrial
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/ex-tarifario" class="state-published">
+            
+            Ex-Tarifários
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/assuntos/competitividade-industrial/processo-produtivo-basico-ppb" class="state-published">
+            
+            PPB - Processo Produtivo Básico
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/arranjos-produtivos-locais-apl" class="state-published">
+            
+            Arranjos Produtivos Locais- APL
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/building-information-modelling-bim" class="state-published">
+            
+            Building Information Modelling - BIM
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/setor-automotivo" class="state-published">
+            
+            Setor Automotivo
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/chamamento-publico" class="state-published">
+            
+            Chamamento Público
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/complexo-quimico-e-da-saude" class="state-published">
+            
+            Complexo Químico e da Saúde
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/design" class="state-published">
+            
+            Design
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/gan" class="state-published">
+            
+            GAN
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/gtati" class="state-published">
+            
+            GTATI
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/integracao-produtiva-e-competitividade-internacional" class="state-published">
+            
+            Integração Produtiva e Competitividade Internacional
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/pedefor" class="state-published">
+            
+            Pedefor
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/processos-de-contas-anuais" class="state-published">
+            
+            Processos de Contas Anuais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/renai" class="state-published">
+            
+            Renai
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/acoes-e-programas" class="state-published">
+            
+            Ações e Programas
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/livros" class="state-published">
+            
+            Livros
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/sustentabilidade" class="state-published">
+            
+            Sustentabilidade
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/pmr" class="state-published">
+            
+            Projeto PMR Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/competitividade-industrial/construa-brasil" class="state-published">
+            
+            Construa Brasil
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/comercio-e-servicos" class="state-published">
+            
+            Comércio e Serviços
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/liberdade-economica" class="state-published">
+            
+            Liberdade Econômica
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/ambiente-de-negocios/melhores-praticas-em-regulacao-rodoviaria" class="state-published">
+            
+            Melhores práticas em regulação rodoviária
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado" class="plain">Choque de Investimento Privado</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/avaliacao-de-impacto" class="state-published">
+            
+            Avaliação de Impacto
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://investimentos.economia.gov.br/" class="state-published">
+            
+            Monitor de Investimentos
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/modelo-de-cinco-dimensoes" class="state-published">
+            
+            Modelo de Cinco Dimensões
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/avaliacao-socioeconomica-de-custo-beneficio-1" class="state-published">
+            
+            Avaliação Socioeconômica de Custo Benefício
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/proposta-de-racionalizacao-tributaria-em-telecom" class="state-published">
+            
+            Proposta de Racionalização Tributária em Telecom
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/choque-de-investimento-privado/investimentos-em-residuos-solidos" class="state-published">
+            
+            Investimentos em Resíduos Sólidos
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital" class="plain">Futuro Digital e Produtivo</a>
+                <ul class="submenu">
+                    <li>
+
+    
+
+        <a href="https://www.inovativabrasil.com.br/" class="state-published">
+            
+            InovAtiva
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.startoutbrasil.com.br/" class="state-published">
+            
+            StartOut Brasil
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/startuppoint/pt-br" class="state-published">
+            
+            Startup Point
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital/brasil-mais" class="state-published">
+            
+            Programa Brasil Mais
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://camara40.com.br/" class="state-published">
+            
+            Câmara da Indústria 4.0
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/pt-br/propriedade-intelectual" class="state-published">
+            
+            Portal Propriedade Intelectual
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/futuro-produtivo-e-digital/marco-legal-de-startups" class="state-published">
+            
+            Marco Legal de Startups
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li><li class="plain dropdown-submenu"><a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic" class="plain">Ministério do Desenvolvimento, Indústria, Comércio e Serviços - MDIC</a>
+                <ul class="submenu">
+                    <li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/noticias" class="state-published hasDropDown">
+            
+            Notícias
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/noticias/2023" class="state-published">
+            
+            2023
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li class="dropdown-submenu">
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/redes-sociais" class="state-published hasDropDown">
+            
+            Redes Sociais
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://twitter.com/MDICoficial" class="state-published">
+            
+            Twitter
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.instagram.com/mdicoficial/" class="state-published">
+            
+            Instragram
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.youtube.com/@MDICoficial" class="state-published">
+            
+            Youtube
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.facebook.com/MDICoficial" class="state-published">
+            
+            Facebook
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.linkedin.com/company/mdic-oficial/" class="state-published">
+            
+            Linkedin
+        </a>
+
+        
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.flickr.com/photos/mdicgovbr/" class="state-published">
+            
+            Flickr
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul>
+    
+</li>
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/produtividade-e-comercio-exterior/pt-br/mdic/imagens" class="state-published">
+            
+            Imagens
+        </a>
+
+        
+    
+</li>
+                </ul>
+            </li></ul>
+                <!--</div>
+            </div>-->
+
+                
+        <div class="lgpd-reset-cookies">
+        <a href="#" class="reset-cookies" onclick="_redefinirCookies(); return false;">Redefinir Cookies</a>
+    </div>
+    <div class="redes-e-logos">
+                    <div class="redes-sociais">
+                        <div class="titulo">Redes sociais</div>
+                    <ul class="portal-redes">
+            
+                <li class="portalredes-twitter portalredes-item">
+                    <a href="https://www.twitter.com/twitter">Twitter</a>
+                </li>
+            
+                <li class="portalredes-youtube portalredes-item">
+                    <a href="https://www.youtube.com/youtube">YouTube</a>
+                </li>
+            
+                <li class="portalredes-facebook portalredes-item">
+                    <a href="https://www.facebook.com/facebook">Facebook</a>
+                </li>
+            
+                <li class="portalredes-flickr portalredes-item">
+                    <a href="https://www.flickr.com/flickr">Flickr</a>
+                </li>
+            
+        </ul></div>
+                    <div id="footer-govbr">
+                        <div id="wrapper-footer-brasil">
+                            <a class="logo-acesso-footer" href="https://www.gov.br/acessoainformacao/pt-br">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 117 49" height="49" width="117" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><defs><style type="text/css"><![CDATA[.a {font: normal bold 11px Open Sans, sans-serif;}]]></style></defs><circle cx="22" cy="23" r="22" fill="#222"></circle><path style="stroke:#fff;stroke-width:9;stroke-linecap:round;" d="m 22,23 v 13"></path><path style="stroke:#222;stroke-width:4;stroke-linejoin:round;" d="m 4,43 3,-6 4,3 z"></path><circle r="4.5" cy="11" cx="22" fill="#fff"></circle><g fill="#222"><text x="47" y="22"><tspan class="a" y="18">Acesso à</tspan><tspan class="a" x="47" y="31">Informação</tspan></text></g></svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="texto-copyright">
+    Todo o conteúdo deste site está publicado sob a licença <a rel="license" href="https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR">Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada</a>.
+  </div>
+        </footer>
+
+        <nav class="back-to-top" aria-label="Voltar ao topo da página">
+            <a href="#wrapper">
+                <span class="fa fa-chevron-up"></span>
+                <span class="sr-only">Voltar ao topo da página</span>
+            </a>
+        </nav>
+    <div id="govbr-busca-input-data" style="display: none" data-autocomplete-api="https://portalunico.estaleiro.serpro.gov.br/api/" data-autocomplete-index="www.gov.br/produtividade-e-comercio-exterior" data-autocomplete-orgao="ministerio-da-economia" data-autocomplete-search="https://www.gov.br/produtividade-e-comercio-exterior/pt-br" data-autocomplete-portal="https://www.gov.br" data-historico-title="Histórico de buscas" data-servicos-title="Serviços e Apps" data-sugestoes-title="Você quis dizer?" data-input-placeholder="O que você procura?"></div></div><div id="main-navigation-overlay"></div><div class="redefinir-cookies">
+
+    
+
+</div><div class="dsgov">
+    <div class="br-cookiebar default d-none" tabindex="-1">
+      <div class="br-modal">
+        <div class="br-card">
+          <div class="container">
+            <div class="wrapper">
+              <div class="br-modal-header entry-content">
+                <div class="br-modal-title"></div>
+                <div class="last-update"></div>
+                <div class="entry-text"></div>
+              </div>
+              <div class="br-modal-body">
+                <div class="info-text"></div>
+                <div class="br-list main-content">
+                </div>
+              </div>
+            </div>
+            <div class="br-modal-footer actions">
+              <button class="br-button small btn-manage" type="button" aria-label="Definir Cookies"></button>
+              <button class="br-button secondary small reject-all" type="button" aria-label="Rejeitar">Rejeitar</button>
+              <button class="br-button secondary small btn-accept" type="button" aria-label="Aceitar"></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><script id="lgpd-cookie-handling" type="text/javascript" src="https://www.gov.br/produtividade-e-comercio-exterior/++resource++govbr.policy/lgpd_cookie_handling_1_3_55.js"></script><div id="govbr-login-overlay-wrapper"></div><script type="text/javascript" src="/produtividade-e-comercio-exterior/++theme++padrao_govbr/govbrtheme-27a558f.js"></script><div id="plone-analytics"><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" data-src="https://www.googletagmanager.com/gtag/js?id=UA-80181585-36"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-80181585-36', {
+  'linker': {
+    'domains': ['www.gov.br', 'vlibras.gov.br'],
+    'accept_incoming': true
+  }
+});
+</script>
+</div>
+    
+    
+      <script async="" src="//barra.brasil.gov.br/barra_2.0.js"></script>
+    
+</body>
+</html>

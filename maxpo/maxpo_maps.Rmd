@@ -1,0 +1,273 @@
+---
+title: "Max Po Maps"
+author: "Marcus Torres"
+date: "25/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+rm(list=ls())
+setwd("C:/Users/marvi/OneDrive - Universidade Federal de Pernambuco/Trabalhos Externos/Todos pela Educação/scripts")
+```
+
+
+
+Agora vamos baixar os bancos
+
+```{r baixar,results = "hide"}
+if (!require('pacman')) install.packages('pacman'); library('pacman')
+p_load(basedosdados, dplyr, devtools, XML, xml2, stringr, stargazer, ggplot2, geobr, plyr, sf, gganimate, lubridate, mcmc, MCMCpack, scales)
+
+
+#Para usar o banco de dados do Banco dos dados
+set_billing_id("227911559140")
+
+
+```
+
+
+Primeiramente o PIB
+```{r pressure, results = "hide"}
+query <- basedosdados::bdplyr("br_ibge_pib.municipio") 
+pib <- basedosdados::bd_collect(query)
+```
+
+
+Depois a renda 
+```{r pressure, results = "hide"}
+query <- basedosdados::bdplyr("basedosdados.br_ibge_censo_demografico.setor_censitario_pessoa_renda_2010") %>% 
+  dplyr::select(id_setor_censitario, id_setor_censitario, v011:v019)
+renda_2010 <- basedosdados::bd_collect(query)
+renda_2010$id_municipio <-str_sub(renda_2010$id_setor_censitario, end = 7)
+head(renda_2010)
+```
+
+Baixar os códigos municipais
+```{r pressure, results = "hide"}
+query <- basedosdados::bdplyr("br_bd_diretorios_brasil.municipio") 
+mun_code <-  basedosdados::bd_collect(query)
+
+
+```
+
+
+Fazer o merge (tem criciuma só para um teste)
+
+```{r pressure, results = "hide"}
+pib <- merge(pib, mun_code, by = "id_municipio")
+renda_2010 <- merge(renda_2010, mun_code, by = "id_municipio")
+
+#######  Usar somente o pib de 2018 para fazer o mcmc
+pib_2018 <- pib %>% filter(ano == 2018)
+
+##Somente um teste para o IGP
+#criciuma <- renda_2010 %>% filter(id_municipio == "4204608")
+
+
+```
+
+Deflacionar as variáveis 
+```{r pressure, results = "hide"}
+
+p_load(deflateBR)
+
+
+pib_2018$pib_deflate <- deflate(pib_2018$pib, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$impostos_liquidos_deflate <- deflate(pib_2018$impostos_liquidos, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$va_deflate <- deflate(pib_2018$va, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$va_agropecuaria_deflate <- deflate(pib_2018$va_agropecuaria, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$va_industria_deflate <- deflate(pib_2018$va_industria, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$va_servicos_deflate <- deflate(pib_2018$va_servicos, as.Date("2018-01-01"), "01/2021", index = "ipca")
+pib_2018$va_adespss_deflate <- deflate(pib_2018$va_adespss, as.Date("2018-01-01"), "01/2021", index = "ipca")
+
+```
+
+
+
+
+
+PARA FAZER OS MAPAS
+
+Baixar os dados de mapa
+
+```{r , results = "hide"}
+all_mun <- read_municipality( year=2018)
+save(all_mun, file = "all_mun.RData")
+?write()
+```
+
+Aqui estamos mergindo com a base de mapas.
+```{r , results = "hide"}
+pib_map <- merge(pib_2018, all_mun, by.x = "id_municipio", by.y = "code_muni")
+
+renda_2010_map <- merge(renda_2010, all_mun, by.x = "id_municipio", by.y = "code_muni")
+
+colnames(pib_map)
+class(pib_map)
+class(all_mun)
+
+pib_map <- sf:::st_as_sf.data.frame(pib_map)
+class(pib_map)
+pib_map_capitais <- pib_map %>% filter(capital_uf == 1)
+
+```
+
+
+Produto Interno Bruto
+
+Saber quantos municípios têm baixa arrecadação
+
+```{r }
+summary(pib_map$capac_fisc)
+
+
+
+colnames(pib_map)
+ggplot() +
+  geom_sf(data=pib_map, aes( fill=(pib_deflate/1000000)), color= NA, size=.15)+
+ # labs(subtitle="", size=8) +
+  scale_fill_distiller(palette = "Blues", name="GDP in Brazil - 2018", limits = c(0,1000), direction = +1) +
+  theme_minimal() 
+# #  theme(legend.position = "none") #Exclude legendas
+#   labs(x = "Ano", y = "Total Properties Sold", title = "{frame_time}") +
+#   transition_time(ano_teste) +
+#   ease_aes("linear")
+
+```
+
+
+```{r }
+summary(pib_map$capac_fisc_scale)
+
+```
+
+```{r }
+summary(pib_map$capac_fisc_scale_deflate)
+
+```
+
+```{r }
+
+colnames(pib_map)
+ggplot() +
+  geom_sf(data=pib_map, aes( fill=capac_fisc_scale_deflate), color= NA, size=.15)+
+ # labs(subtitle="", size=8) +
+  scale_fill_distiller(palette = "Blues", name="Capacidade Fiscal dos Municípios", limits = c(0,0.774258), direction = +1) +
+  theme_minimal() 
+# #  theme(legend.position = "none") #Exclude legendas
+#   labs(x = "Ano", y = "Total Properties Sold", title = "{frame_time}") +
+#   transition_time(ano_teste) +
+#   ease_aes("linear")
+
+```
+
+
+
+
+
+
+ÚLTIMAS DEMANDAS (17/10)
+- Divisão por categoria de variação do municípios, por exemplo, 10 níveis de agregação dos municípios de acordo com os resultados do fator construído;
+
+-Histogramas dos dados;
+
+-Gráficos de dispersão;
+
+-Caso haja versões diferentes do fator, comparar em um mesmo gráfico (Fator Socioeconômico).
+
+
+
+
+
+
+```{r }
+p_load(esquisse)
+
+
+ggplot(pib_2018_bind) +
+  aes(x = capac_fisc_scale) +
+  geom_histogram(bins = 30L, fill = "#112446") +
+  theme_minimal()
+
+
+```
+```{r }
+p_load(esquisse)
+ggplot(pib_2018_bind) +
+  aes(x = capac_fisc_scale_deflate) +
+  geom_histogram(bins = 30L, fill = "#112446") +
+  theme(axis.title=element_blank())  
+
+```1
+
+```{r }
+p_load(esquisse)
+ggplot(pib_2018_bind) +
+  aes(x = capac_fisc_scale_deflate) +
+  geom_histogram(bins = 30L, fill = "#112446") +
+  theme(axis.title=element_blank())  +
+    facet_wrap(~sigla_uf.x)
+
+
+```
+
+```{r}
+
+capac_uf <- pib_2018_bind %>%  filter(capac_fisc_scale_deflate > 0.072)  %>%  group_by(sigla_uf) %>%  dplyr::summarise(n= n(), perc = n()/1404*100)
+
+```
+
+
+```{r}
+pib_2018_bind$pib_deflate_1mi <- pib_2018_bind$pib_deflate/10^6
+
+```
+
+
+Achei interessante termos o dado da população
+```{r}
+
+query <- basedosdados::bdplyr("basedosdados.br_ibge_populacao.municipio") %>% 
+  dplyr::filter(ano == 2018)
+pop_2018 <- basedosdados::bd_collect(query)
+pib_2018_bind <- merge(pib_2018_bind, pop_2018, by = "id_municipio")
+pib_2018_bind$populacao_mi <- pib_2018_bind$populacao/10^6
+
+```
+
+basedosdados.br_ibge_populacao.municipio
+```{r}
+
+ggplot(pib_2018_bind) +
+  aes(
+    x = pib_deflate_1mi,
+    y = capac_fisc_scale_deflate,
+    colour = regiao
+  ) +
+  geom_point(shape = "circle", size = 1.5) +
+  scale_color_hue(direction = 1) +
+  theme_minimal()
+
+```
+
+```{r}
+
+p_load(ggpubr)
+ sp <- ggscatter(pib_2018_bind, x = "pib_deflate_1mi", y = "capac_fisc_scale_deflate",
+   add = "reg.line",  # Add regressin line
+   add.params = list(color = "blue", fill = "lightgray"), # Customize reg. line
+   conf.int = TRUE # Add confidence interval
+   )
+# Add correlation coefficient
+ sp + stat_cor(method = "pearson", label.x = 3, label.y = 30)
+
+```
+
+```{r}
+
+#RODAR A LINHA ABAIXO NA PRIMEIRA VEZ (Criar diretório)
+#dir.create("C:/Users/marvi/OneDrive - Universidade Federal de Pernambuco/Trabalhos Externos/Todos pela Educação/data/final")
+write.csv(pib_2018_bind, "C:/Users/marvi/OneDrive - Universidade Federal de Pernambuco/Trabalhos Externos/Todos pela Educação/data/final/capacidade_fiscal.csv")
+
+```
