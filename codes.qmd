@@ -23,14 +23,14 @@ p_load(siconvr,dplyr)
 
 
 download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_convenio.csv.zip", # url do arquivo para baixar
-              destfile = "data/siconv_convenio.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+              destfile = "data/siconv/siconv_convenio.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
 
-datazip <- unzip("data/siconv_convenio.zip", # arquivo zip para descompactar
+datazip <- unzip("data/siconv/siconv_convenio.zip", # arquivo zip para descompactar
                  exdir = "data") # local para descompactar: pasta data
-convenio <- readr::read_csv2("data/siconv_convenio.csv")  # abrir o arquivo csv
+convenio <- readr::read_csv2("data/siconv/siconv_convenio.csv")  # abrir o arquivo csv
 
 
-glimpse(convenio)
+
 
 
 ```
@@ -40,62 +40,25 @@ glimpse(convenio)
 
 
 download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_emenda.csv.zip", # url do arquivo para baixar
-              destfile = "data/siconv_emenda.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+              destfile = "data/siconv/siconv_emenda.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
 
-datazip <- unzip("data/siconv_emenda.zip", # arquivo zip para descompactar
+datazip <- unzip("data/siconv/siconv_emenda.zip", # arquivo zip para descompactar
                  exdir = "data") # local para descompactar: pasta data
-emenda <- readr::read_csv2("data/siconv_emenda.csv")  # abrir o arquivo csv
+emenda <- readr::read_csv2("data/siconv/siconv_emenda.csv")  # abrir o arquivo csv
 
 
+
+
+```
+
+```{r glimpse}
+
+glimpse(convenio)
 glimpse(emenda)
-
-
 ```
 
+```{r convenios_emendas}
 
-
-
-
-
-
-
-
-
-
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-library(httr)
-library(tidyverse)
-
-# Create a vector of CSV URLs
-urls <- c("https://repositorio.dados.gov.br/seges/detru/siconv_convenio.csv.zip")
-
-# Loop through the URLs and download the zip files
-for (url in urls) {
-  
-  # Download the zip file
-  response <- GET(url)
-  content <- content(response, as = "raw")
-  
-  # Get the filename from the URL
-  filename <- basename(url)
-  
-  # Write the zip file to the working directory
-  writeBin(content, filename)
-  
-  # Unzip the file
-  unzip(filename)
-  
-  # Read the unzipped csv
-  df <- read.csv(gsub(".zip", "", filename))
-  
-  # Do something with the dataframe
-  # ...
-}
+convenio_emendas <- inner_join(convenio, emenda, by = "ID_PROPOSTA")
 
 ```
-
-

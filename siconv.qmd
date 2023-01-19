@@ -1,0 +1,60 @@
+---
+title: "Independent Variables"
+author: "Marcus Torres"
+format: html
+editor: visual
+---
+
+## Installing Packages
+
+```{r pack}
+rm(list=ls())
+
+library(pacman)
+p_load(siconvr,dplyr)
+```
+
+```{r convenios}
+
+
+
+download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_convenio.csv.zip", # url do arquivo para baixar
+              destfile = "data/siconv/siconv_convenio.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+
+datazip <- unzip("data/siconv/siconv_convenio.zip", # arquivo zip para descompactar
+                 exdir = "data") # local para descompactar: pasta data
+convenio <- readr::read_csv2("data/siconv/siconv_convenio.csv")  # abrir o arquivo csv
+
+
+
+
+
+```
+
+```{r emendas}
+
+
+
+download.file(url = "https://repositorio.dados.gov.br/seges/detru/siconv_emenda.csv.zip", # url do arquivo para baixar
+              destfile = "data/siconv/siconv_emenda.zip") # arquivo de destino (incluindo em qual pasta deve fazer o download)
+
+datazip <- unzip("data/siconv/siconv_emenda.zip", # arquivo zip para descompactar
+                 exdir = "data") # local para descompactar: pasta data
+emenda <- readr::read_csv2("data/siconv/siconv_emenda.csv")  # abrir o arquivo csv
+
+
+
+
+```
+
+```{r glimpse}
+
+glimpse(convenio)
+glimpse(emenda)
+```
+
+```{r convenios_emendas}
+
+convenio_emendas <- inner_join(convenio, emenda, by = "ID_PROPOSTA")
+
+```

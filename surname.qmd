@@ -1,0 +1,40 @@
+---
+title: "surnames"
+author: "Marcus Torres"
+format: revealjs
+editor: visual
+---
+
+## Intro
+
+The objective in these scripts is to match both 2020 parents data we have available. The first one we did in 2021 during the first phase and the second in 2022
+
+## Installing packages
+
+```{r pack}
+library(pacman)
+p_load(readr,data.table)
+```
+
+## Downloading data
+
+```{r}
+
+#The 2021 data is locally
+
+surname <- read.csv2("data/surname/all_brazil_parents.csv", sep = ",")
+
+surname2 <- read.csv("https://raw.githubusercontent.com/fdhidalgo/br_political_dynasties/master/output/politician_parents.csv")
+```
+
+Matching names
+
+```{r matching}
+
+inner <- unique(inner_join(surname, surname2, by = c("sq_candidato" = "cand_id")))
+
+full <- unique(full_join(surname, surname2, by = c("sq_candidato" = "cand_id")))
+
+
+```
+
