@@ -13,28 +13,129 @@ The objective in these scripts is to match both 2020 parents data we have availa
 
 ```{r pack}
 library(pacman)
-p_load(readr,data.table)
+p_load(readr,data.table,fuzzyjoin,dplyr,reticulate,fuzzywuzzyR,janitor)
+rm(list =ls())
 ```
 
 ## Downloading data
 
 ```{r}
 
-#The 2021 data is locally
+#The 2021 data is local
 
-surname <- read.csv2("data/surname/all_brazil_parents.csv", sep = ",")
+#This was me and octávio
+surname_old <- read.csv2("data/surname/all_brazil_parents.csv", sep = ",")
 
-surname2 <- read.csv("https://raw.githubusercontent.com/fdhidalgo/br_political_dynasties/master/output/politician_parents.csv")
-```
+#Anf this one it was danny's
+surname_new <- read.csv("https://raw.githubusercontent.com/fdhidalgo/br_political_dynasties/master/output/politician_parents.csv")
 
-Matching names
-
-```{r matching}
-
-inner <- unique(inner_join(surname, surname2, by = c("sq_candidato" = "cand_id")))
-
-full <- unique(full_join(surname, surname2, by = c("sq_candidato" = "cand_id")))
-
+#commom names 
+name <- fread("https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz" )
 
 ```
 
+Lets try to divide the surname table in two
+
+```{r}
+
+surname_new <- unique(surname_new) #cleaning and letting the same
+#ids <- as.data.frame(table(surname_new$cand_id))
+
+```
+
+
+Treating the old surnames
+````{r janitor}
+surname_old_teste <- surname_old %>% 
+                     mutate(mae_lower = tolower(mae)) %>% 
+                     mutate(pai_lower = tolower(pai)) %>% 
+                     relocate(pai_lower, .after = pai) %>% 
+                     relocate(mae_lower, .after = pai)
+````
+
+Mathcing names 
+```{r name}
+
+inner_mae<- unique(inner_join(surname_old_teste, surname_new, by = c("mae_lower" = "parent_name")))
+inner_pai <- unique(inner_join(surname_old_teste, surname_new, by = c("pai_lower" = "parent_name")))
+
+full <- unique(full_join(inner_pai, inner_mae))
+
+full <- full %>% mutate(id_same = if_else(sq_candidato == cand_id ,1,0))
+
+full %>% 
+  group_by(id_same) %>% 
+  summarise(id_same = n()) %>% 
+  mutate(Rel.Frequency = id_same/sum(id_same)) #Almost 95% have the same ID
+
+#only same ID
+full<- full %>%  filter(id_same== 1)
+
+```
+
+```{r fuzzywuzzy}
+
+teste0 <- "Marcus"
+teste1 <- c("mArco", "margot", "Markus")
+
+init = FuzzMatcher$new()    
+
+init$Ratio(string1 = teste0, string2 = teste1)
+
+
+#######fuzzywuzzy##############
+
+#------------
+# processor :
+#------------
+
+init_proc = FuzzUtils$new()      # initialization of FuzzUtils class to choose a processor
+
+PROC = init_proc$Full_process    # processor-method
+
+PROC1 = tolower                  # base R function ( as an example for a processor )
+
+#---------
+# scorer :
+#---------
+
+init_scor = FuzzMatcher$new()    # initialization of the scorer class
+
+SCOR = init_scor$WRATIO          # choosen scorer function
+
+
+init <- FuzzExtract$new()        # Initialization of the FuzzExtract class
+
+init$Extract(string = teste0 , sequence_strings = teste1, processor = PROC, scorer = SCOR)
+
+
+```
+
+```{r fuzzy}
+
+# Identify how many NAs are in this dataset
+which(is.na(surname_old))
+which(is.na(surname_new))
+
+#
+surname_old[is.na(surname_old)] <- "empty_string"
+surname_new[is.na(surname_new)] <- "empty_string"
+
+
+#Fuzzy matching the names to select how close they are
+match <- surname %>% stringdist_inner_join( surname_new, by = c(mae = "parent_name")) 
+ 
+
+
+
+# Load Python modules
+DIFFLIB <- reticulate::import("difflib")
+POLYFUZZ <- reticulate::import("polyfuzz")
+
+#A test with only the names, if will work
+from <- unique(surname$mae)
+to <- unique(surname2$unnormalized_parent_name)
+
+DIFFLIB$get_close_matches, to, 1L, cutoff = 0)
+
+```
