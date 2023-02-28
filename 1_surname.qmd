@@ -1,0 +1,276 @@
+---
+title: "surnames"
+author: "Marcus Torres"
+format: revealjs
+editor: visual
+---
+
+## Intro
+
+The objective in these scripts is to match both 2020 parents data we have available. The first one we did in 2021 during the first phase and the second in 2022
+
+## Installing packages
+
+```{r pack}
+library(pacman)
+p_load(readr,
+       data.table,
+       fuzzyjoin,
+       dplyr,
+       reticulate,
+       fuzzywuzzyR,
+       janitor,
+       genderBR,
+       cepespR)
+rm(list =ls())
+```
+
+## Downloading data
+
+```{r echo = F, results = 'hide', include=FALSE}
+
+#The 2021 data is local
+
+#This was me and octávio
+surname_old <- read.csv2("data/surname/all_brazil_parents.csv", sep = ",")
+
+#Anf this one it was danny's
+surname_new <- read.csv("https://raw.githubusercontent.com/fdhidalgo/br_political_dynasties/master/output/politician_parents.csv")
+
+#commom names 
+name <- fread("https://data.brasil.io/dataset/genero-nomes/nomes.csv.gz" )
+
+```
+
+Lets try to divide the surname table in two
+
+```{r echo = F, results = 'hide', include=FALSE}
+
+surname_new <- unique(surname_new) #cleaning and letting the same
+#ids <- as.data.frame(table(surname_new$cand_id))
+
+```
+
+Treating the old surnames
+
+```{r janitor echo = F, results = 'hide', include=FALSE}
+surname_old_teste <- surname_old %>% 
+                    #lower cases
+                     mutate(mae_lower = tolower(mae)) %>% 
+                     mutate(pai_lower = tolower(pai)) %>% 
+                    #relocate the variable position
+                     relocate(pai_lower, .after = pai) %>% 
+                     relocate(mae_lower, .after = pai)
+```
+
+Using the old data with the most recent one 
+
+```{r name echo = F, results = 'hide', include=FALSE}
+
+
+inner_mae<- unique(inner_join(surname_old_teste, surname_new, by = c("mae_lower" = "parent_name")))
+inner_pai <- unique(inner_join(surname_old_teste, surname_new, by = c("pai_lower" = "parent_name")))
+
+#Join Mother and father
+full <- unique(full_join(inner_pai, inner_mae))
+
+#Identify if there is any candidate with more than one
+full <- full %>% mutate(id_same = if_else(sq_candidato == cand_id ,1,0))
+
+full %>% 
+  group_by(id_same) %>% 
+  summarise(id_same = n()) %>% 
+  mutate(Rel.Frequency = id_same/sum(id_same)) #Almost 95% have the same ID
+
+#Exclude the ones with different IDs
+full<- full %>%  filter(id_same== 1)
+
+```
+
+Trying to guess people's gender
+
+```{r gender}
+
+#Lets first take a sample of it
+set.seed(15151) 
+
+#Lets create a sample for that
+p_load(pwr)
+#pwr.t.test(d=0.80,#for large effect size
+#           sig.level=0.05, power=0.80, type="one.sample", alternative="two.sided")
+
+# I did a sample size and the result was 375
+
+#gender <- full %>% sample_frac(0.01)
+
+gender <- full %>% sample_n(375)
+
+
+
+
+#making a test
+get_gender(gender$mae)
+
+
+#getting the father and mothers gender
+gender <- gender %>% 
+            mutate(gender_mother = get_gender(mae_lower)) %>% 
+            mutate(gender_father = get_gender(pai_lower)) %>% 
+            relocate(gender_father, .after = pai_lower) %>% 
+            relocate(gender_mother, .after = pai_lower)
+#In a qualitative analysis in the with the sample, we can see that all the cases with mismatched names were actually the algorithm fault.
+
+
+#getting gender from Dannys database
+surname_new <- surname_new %>% 
+            mutate(gender_new = get_gender(parent_name))
+
+
+
+#Now lets use all the doc
+full <- full %>% 
+            mutate(gender_mother = get_gender(mae_lower)) %>% 
+            mutate(gender_father = get_gender(pai_lower)) %>% 
+            relocate(gender_father, .after = pai_lower) %>% 
+            relocate(gender_mother, .after = pai_lower)
+
+male_female <- full %>%
+  group_by(gender_mother,gender_father) %>%
+  summarize(n())
+
+```
+
+Load the candidates Data
+
+```{r Candidato}
+
+load("/Users/marcustorres/Library/CloudStorage/OneDrive-UniversidadeFederaldePernambuco/UFPE/DOUTORADO/dissertation/dynastiesBR/2020.RData")
+rm(Candidato,eng,filho_a_de,filho_de,Filiacao,Orgao,por,text) 
+
+rm("gender",
+   "inner_pai",
+   "inner_mae",
+   "name",
+   "surname_old_teste")
+
+dinastias_final <- merge(full, candidatos, by.x = "sq_candidato", by.y = "SQ_CANDIDATO")
+
+
+#Lets just save the datac
+write.csv(dinastias_final, "candidatos_pais_2020.csv")
+
+```
+
+
+
+Now we will download CEPESP Candidates Data
+
+```{r cepesp}
+#Elected Candidates
+federal_elected_2012_2018 <- get_candidates(year = "2018,2014,2010,2006,2002,1998",position = "Deputado Federal", only_elected = T)
+
+state_elected_2012_2018 <- get_candidates(year = "2018,2014,2010,2006,2002,1998",position = "Deputado Estadual", only_elected = T)
+
+mayor_elected_2016_2000 <- get_candidates(year = "2016,2012,2008,2004,2000",position = "Prefeito", only_elected = T)
+
+```
+
+
+
+
+```{r fuzzymathcing}
+
+#Looking municipalities we have the most ammount of candidates with families names
+dinastias_final_mun<- dinastias_final %>% group_by(NM_UE) %>% summarise(id_same = n()) 
+
+
+#Trying to look for places  to possible match
+dinastias_final_sample <- dinastias_final %>% 
+                          filter(NM_UE == "HOLAMBRA") %>% 
+                          select(NM_CANDIDATO,sq_candidato,
+                                 mae,
+                                 pai,
+                                 mae_lower,
+                                 pai_lower,
+                                 unnormalized_parent_name,
+                                 NM_CANDIDATO,
+                                 NM_UE
+                                 ) %>% unique()
+
+### SAMPLING THE MAYOR
+                          
+glimpse(mayor_elected_2016_2000)
+mayor_elected_2016_2000_sample <- mayor_elected_2016_2000  %>% 
+                                filter(DESCRICAO_UE == "HOLAMBRA") %>% 
+                                select(ANO_ELEICAO,
+                                       DESCRICAO_UE,
+                                       NOME_CANDIDATO)
+
+
+
+#Remove some data
+rm(surname_old,
+   surname_new,
+   male_female, 
+   dinastias_final_mun, 
+   dinastias_final_sample,
+   dinastias_90514,
+   candidatos,
+   mayor_elected_2016_2000_sample,
+   full)
+```
+````{r cleaning}
+#Before Starting, lets just clean the dinastias_final
+glimpse(dinastias_final)
+candidatos_2020_pais <- dinastias_final %>% select(sq_candidato,
+                                                   mae,
+                                                   pai,
+                                                   mae,
+                                                   mae_lower,
+                                                   pai_lower,
+                                                   unnormalized_parent_name,
+                                                   gender_mother,
+                                                   gender_father,
+                                                   codigo_tse,
+                                                   cpf_child,
+                                                   SG_UF,
+                                                   SG_UE,
+                                                   NM_UE,
+                                                   NM_CANDIDATO,
+                                                   NM_URNA_CANDIDATO,
+                                                   NM_MUNICIPIO_NASCIMENTO)
+                                                  
+                                        
+
+`````
+
+
+```{r matching}
+
+match_pref_pai <- merge(candidatos_2020_pais, mayor_elected_2016_2000, by.x = "pai", by.y = "NOME_CANDIDATO") 
+
+%>%  group_by(NM_UE) %>% summarise(id_same = n()) 
+```
+
+####################### 
+
+```{r Candidato}
+#Parents Matching
+
+#determine 
+dinastias_final_sample[is.na(dinastias_final_sample)] <- "empty_string"
+#mayor_elected_2016_2000[is.na(surname_new)] <- "empty_string"
+
+
+
+match <- mayor_elected_2016_2000_sample %>% 
+  stringdist_inner_join( dinastias_final_sample, by = c(NOME_CANDIDATO = "mae")) 
+
+
+
+  #group_by(NOME_CANDIDATO) %>%
+  slice_min(order_by=dist, n=1)
+
+
+
+```

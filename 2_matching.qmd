@@ -1,0 +1,77 @@
+---
+title: "2_matching"
+format: html
+editor: visual
+
+
+
+
+---
+IN THIS PART WE WILL START THE MACHINE LEARNING PROCESS. 
+
+```{r fuzzywuzzy}
+
+teste0 <- "Marcus"
+teste1 <- c("mArco", "margot", "Markus")
+
+init = FuzzMatcher$new()    
+
+init$Ratio(string1 = teste0, string2 = teste1)
+
+
+#######fuzzywuzzy##############
+
+#------------
+# processor :
+#------------
+
+init_proc = FuzzUtils$new()      # initialization of FuzzUtils class to choose a processor
+
+PROC = init_proc$Full_process    # processor-method
+
+PROC1 = tolower                  # base R function ( as an example for a processor )
+
+#---------
+# scorer :
+#---------
+
+init_scor = FuzzMatcher$new()    # initialization of the scorer class
+
+SCOR = init_scor$WRATIO          # choosen scorer function
+
+
+init <- FuzzExtract$new()        # Initialization of the FuzzExtract class
+
+init$Extract(string = teste0 , sequence_strings = teste1, processor = PROC, scorer = SCOR)
+
+
+```
+
+```{r fuzzy}
+
+# Identify how many NAs are in this dataset
+which(is.na(surname_old))
+which(is.na(surname_new))
+
+#
+surname_old[is.na(surname_old)] <- "empty_string"
+surname_new[is.na(surname_new)] <- "empty_string"
+
+
+#Fuzzy matching the names to select how close they are
+match <- surname %>% stringdist_inner_join( surname_new, by = c(mae = "parent_name")) 
+ 
+
+
+
+# Load Python modules
+DIFFLIB <- reticulate::import("difflib")
+POLYFUZZ <- reticulate::import("polyfuzz")
+
+#A test with only the names, if will work
+from <- unique(surname$mae)
+to <- unique(surname2$unnormalized_parent_name)
+
+DIFFLIB$get_close_matches, to, 1L, cutoff = 0)
+
+```
